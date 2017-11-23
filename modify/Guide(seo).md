@@ -25,9 +25,16 @@ bundle install 방법
 
     $ gem install bundler
 
-만약 설치가 안된다면 아래의 명령어로 다시한번 설치를 해주시기 바랍니다.
+만약 아래와 같이 권한이 없다고 뜬다면 
+
+<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.26.20.png">
+
+아래의 명령어로 다시한번 설치를 해주시기 바랍니다.
 
     $ sudo gem install bundler
+
+그런 다음 비밀번호를 입력하면 다음과 같이 설치과 완료될 것입니다.
+<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.23.57.png">
 
 
 bundle 열기
