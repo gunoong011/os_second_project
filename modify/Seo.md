@@ -20,7 +20,10 @@ CSS: version 3
 
 bundle install 방법
 -----------------
-링크걸기
+### for mac
+    $ gem install bundler
+
+
 
 사용된 라이선스
 -------------
