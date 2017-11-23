@@ -12,7 +12,9 @@
 개발 당시 환경
 ----------------
 OS: Mac OS(Mac Air)
+
 HTML: version 5
+
 CSS: version 3
 
 
