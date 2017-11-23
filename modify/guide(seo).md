@@ -20,7 +20,30 @@ CSS: version 3
 
 bundle install 방법
 -----------------
-링크걸기
+#### 1. for mac
+터미널에서 아래의 명령어를 실행해 주세요.
+
+    $ gem install bundler
+
+만약 설치가 안된다면 아래의 명령어로 다시한번 설치를 해주시기 바랍니다.
+
+    $ sudo gem install bundler
+
+위 명령어를 친 후에 비밀번호를 입력해주시면 됩니다.
+
+bundle 열기
+------------
+
+create 기능을 사용하기 위해서는 bundle을 열어야 합니다.
+
+bundle install을 했다면 meme폴더로 이동하시기 바랍니다.
+
+meme 폴더 내부에서 아래의 명령어를 실행시키십시오.
+
+    $ bundler exec middleman
+
+이제 create기능을 사용할 수 있습니다.
+
 
 사용된 라이선스
 -------------
