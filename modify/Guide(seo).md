@@ -63,6 +63,8 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 #### - Apache License, Version 2.0
   (*완성 직전에 라이선스 폴더 링크 걸기)
+  
+  
 os_second_project의 라이선스
 ---------------------------
 - Appache 2.0 <br />  https://github.com/gunoong011/os_second_project/blob/master/NOTICE.txt
