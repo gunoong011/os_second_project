@@ -28,6 +28,7 @@ bundle install 방법
 링크 걸기
 #### - Apache License, Version 2.0
 링크 걸기
+os_second_project/NOTICE.txt
 
 사용한 오픈소스 사이트
 ------------------
