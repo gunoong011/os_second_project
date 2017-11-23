@@ -24,7 +24,6 @@ bundle install 방법
     $ gem install bundler
 
 
-
 사용된 라이선스
 -------------
 #### - The MIT License
