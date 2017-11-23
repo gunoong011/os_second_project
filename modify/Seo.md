@@ -29,6 +29,7 @@ bundle install 방법
 
     $ sudo gem install bundler
 
+위 명령어를 친 후에 비밀번호를 입력해주시면 됩니다.
 
 bundle 열기
 ------------
