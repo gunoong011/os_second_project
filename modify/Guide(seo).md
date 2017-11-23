@@ -59,25 +59,10 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 -------------
 #### - The MIT License
 
-- Bundler    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/BundlerLicense.md
-
-- Flat_HTML5    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5_License.md
-
-- How to Make a Website    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/HowToMakeAWebsiteLicense.md
-
-- upload    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/KnockoutFilesLicense.md
-
-- RRSSB    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/RRSSB_LIcense.md
-
-- jquery    <br /> https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/jqueryLicense.md
-
 #### - BSD 3-clause License
 
-- Meme     <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/3-Clause_BSD_License(BSD-3-Clause)/MemeLicense.md
-
 #### - Apache License, Version 2.0
-- slides    <br />  https://github.com/gunoong011/os_second_project/blob/master/Library_License/Apache_License_Version_2.0/SlidesLicense.md
-
+  (*완성 직전에 라이선스 폴더 링크 걸기)
 os_second_project의 라이선스
 ---------------------------
 - Appache 2.0 <br />  https://github.com/gunoong011/os_second_project/blob/master/NOTICE.txt
