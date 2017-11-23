@@ -21,6 +21,7 @@ html, body {
   padding: 0;
   box-sizing: content-box;
 }
+
 *:focus, *:before:focus, *:after:focus, button:focus {
   outline: 0;
 }
@@ -35,6 +36,7 @@ html, body {
   opacity: 0;
   left: calc(50% - 32px);
 }
+
 .icon.active {
   top: 0px;
   opacity: 1;
@@ -58,6 +60,7 @@ html, body {
   cursor: pointer;
   overflow: hidden;
 }
+
 .btn.active {
   -webkit-animation: upload 3s ease-in-out forwards;
           animation: upload 3s ease-in-out forwards;
@@ -73,18 +76,21 @@ html, body {
   left: calc(50% - 42px);
   top: calc(50% - 42px);
 }
+
 .rest.active {
   -webkit-animation: animate 1.05s linear 2;
           animation: animate 1.05s linear 2;
   -webkit-animation-delay: .6s;
           animation-delay: .6s;
 }
+
 .rest.active:after {
   -webkit-animation: animate2 1.05s linear 2;
           animation: animate2 1.05s linear 2;
   -webkit-animation-delay: .6s;
           animation-delay: .6s;
 }
+
 .rest:after {
   -webkit-transform: scale(0);
           transform: scale(0);
@@ -179,6 +185,7 @@ html, body {
     background-color: #819aa9;
   }
 }
+
 @-webkit-keyframes animate {
   0% {
     -webkit-transform: scale(1);
@@ -193,6 +200,7 @@ html, body {
             transform: rotate(220deg);
   }
 }
+
 @keyframes animate {
   0% {
     -webkit-transform: scale(1);
@@ -207,6 +215,7 @@ html, body {
             transform: rotate(220deg);
   }
 }
+
 @-webkit-keyframes animate2 {
   0% {
     box-shadow: inset #f36d66 0 0 0 4px;
@@ -219,6 +228,7 @@ html, body {
             transform: rotate(140deg);
   }
 }
+
 @keyframes animate2 {
   0% {
     box-shadow: inset #f36d66 0 0 0 4px;
@@ -231,6 +241,7 @@ html, body {
             transform: rotate(140deg);
   }
 }
+
 @-webkit-keyframes done {
   0% {
     top: -20px;
@@ -239,6 +250,7 @@ html, body {
     top: 0px;
   }
 }
+
 @keyframes done {
   0% {
     top: -20px;
