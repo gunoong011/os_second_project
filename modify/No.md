@@ -7,7 +7,7 @@
 우리가 사용한 오픈 소스 라이브러리들은 다음과 같습니다.
 
 
-[Flat HTML5/CSS3 LOGIN Form](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5:CSS3_LOGIN_Form_License.md)
+[Flat HTML5/CSS3 LOGIN Form](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5_License.md)
 
 [How to Make a Website](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/HowToMakeAWebsiteLicense.md)
 
