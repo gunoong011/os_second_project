@@ -32,6 +32,7 @@ bundle install 방법
 
 bundle 열기
 ------------
+
 create 기능을 사용하기 위해서는 bundle을 열어야 합니다.
 
 bundle install을 했다면 meme폴더로 이동하시기 바랍니다.
