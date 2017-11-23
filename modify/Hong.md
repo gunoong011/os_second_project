@@ -12,6 +12,7 @@ ERICAST에 대한 합리적 접근 방법
 4. 전역변수
 5. 선언과 할당
 7. 주석
+8. 공백
 6. etc
 
 
@@ -46,13 +47,13 @@ ERICAST에 대한 합리적 접근 방법
     function someFunction() {
 
         // statement에 관한 주석
-        statements
+      statements
     }
 
     // Bad - 들여쓰기 없음, 주석 전에 한 줄 띄기 없음
     function someFunction() {
     // statement에 관한 주석
-        statements
+      statements
     }
 
     // Good
@@ -86,7 +87,51 @@ ERICAST에 대한 합리적 접근 방법
 
 위의 마지막 예시와 같은 코드 주석이 있다면, 반드시 한줄 주석들의 모음으로 처리한다.
 
-    //Good
+    // Good
     // var foo = '';
     // var bar = '';
     // var quux;
+
+공백
+---------------------------------
+공백은 키워드, 연산자 또는 다른 코드 사이에 있어야 한다.
+
+    // Good
+    var value;
+    if (typeof str === 'string') {
+      value = (a + b);
+    }
+
+    // Bad
+    var value;
+    if(typeof str==='string') {
+      value=(a+b);
+    }
+
+괄호의 직후에는 공백을 제거한다.
+
+단, 괄호 내의 인자들의 나열에서 콤마(,)의 직후에는 공백이 있어야 한다.
+
+    // Good
+    var arr = [1, 2, 3, 4];
+
+    // Good
+    someFunction(a, b, {
+      prop1: 1,
+      prop2: 2,
+      prop3: 3
+    });
+
+    // Bad - 괄호 안에 공백
+    if ( typeof str === 'string' )
+
+    // Bad - 괄호 안 공백, 콤마 뒤 공백 없음
+    var arr = [ 1,2,3,4 ];
+
+    // Bad - 객체의 닫는 괄호 다음에 개행
+    someFunction(a, b, {
+        prop1: 1,
+        prop2: 2,
+        prop3: 3
+      }
+    );
