@@ -2,6 +2,7 @@ create 사용법
 ==============
 
 create 기능을 사용하기 위해서는 bundle을 열어야합니다.
+
 만약 bundle을 열지않았다면 다음 링크를 참조하여 bundle을 열어 주시기 바랍니다.
  - https://github.com/gunoong011/os_second_project/blob/master/modify/Guide(seo).md
 
