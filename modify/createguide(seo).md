@@ -62,5 +62,5 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 
 카드뉴스가 완성되었다면 "Download & upload image"를 클릭 하시면 다운 받을수 있습니다.
 
-<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.44.png">
+<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.58.08.png">
 
