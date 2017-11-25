@@ -12,19 +12,17 @@
 
 저희 사이트에서 LOGIN 기능을 구현할 때 쓴 라이브러리 입니다
 
-라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5_License.md)
+* 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5_License.md)
 
-참고 사이트 : [Flat HTML5/CSS3 LOGIN Form site](https://codepen.io/colorlib/pen/rxddKy)
+* 참고 사이트 : [Flat HTML5/CSS3 LOGIN Form site](https://codepen.io/colorlib/pen/rxddKy)
 
-<div style="text-align: center">
-	<strong>참고 사이트 화면</strong>
-</div>
+<p align ="center"> **참고 사이트 화면** </p>
 
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
 <p/>
 
-<p align ="center">실제 구현한 화면</p>
+<p align ="center">**실제 구현한 화면**</p>
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/login.png">
 <p/>
