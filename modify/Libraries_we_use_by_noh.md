@@ -12,9 +12,9 @@
 
 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/Flat_HTML5_License.md)
 
-사이트 : [Flat HTML5/CSS3 LOGIN Form site](https://codepen.io/colorlib/pen/rxddKy)
+참고 사이트 : [Flat HTML5/CSS3 LOGIN Form site](https://codepen.io/colorlib/pen/rxddKy)
 
-<p align ="center">사이트 화면</p>
+<p align ="center"> 참고 사이트 화면</p>
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
 <p/>
@@ -31,9 +31,9 @@
 
 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/HowToMakeAWebsiteLicense.md)
 
-사이트 : [How to Make a Website site](https://codepen.io/nickpettit/pen/deAnv)
+참고 사이트 : [How to Make a Website site](https://codepen.io/nickpettit/pen/deAnv)
 
-<p align ="center">  사이트 화면 </p>
+<p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/HowToMake.png">
 <p/>
@@ -50,9 +50,9 @@
 
 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/KnockoutFilesLicense.md)
 
-사이트 : [Knockout Files Bindings with upload preview and drag & drop](https://codepen.io/mrsafraz/pen/uIrwC)
+참고 사이트 : [Knockout Files Bindings with upload preview and drag & drop](https://codepen.io/mrsafraz/pen/uIrwC)
 
-<p align ="center"> 사이트 화면 </p>
+<p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Knockout.png">
 <p/>
@@ -69,7 +69,7 @@
 
 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/RRSSB_LIcense.md)
 
-참고 사이트 :[RRSSB site](https://rrssb.netlify.com)
+참고 사이트 : [RRSSB site](https://rrssb.netlify.com)
 
 <p align= "center"> 참고 사이트 화면</p>
 <p align="center">
@@ -96,7 +96,7 @@
 
 라이선스 : [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/The_MIT_License/jqueryLicense.md)
 
-참고 사이트 :[jQuery site](https://jquery.com)
+참고 사이트 : [jQuery site](https://jquery.com)
 
 <p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
