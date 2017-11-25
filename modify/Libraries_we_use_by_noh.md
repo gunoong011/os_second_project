@@ -16,13 +16,13 @@
 
 * 참고 사이트 : [Flat HTML5/CSS3 LOGIN Form site](https://codepen.io/colorlib/pen/rxddKy)
 
-<p align ="center"> **참고 사이트 화면** </p>
+<p align ="center"> ** 참고 사이트 화면 ** </p>
 
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
 <p/>
 
-<p align ="center">**실제 구현한 화면**</p>
+<p align ="center">** 실제 구현한 화면 **</p>
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/login.png">
 <p/>
