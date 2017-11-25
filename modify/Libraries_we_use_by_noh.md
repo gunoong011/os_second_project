@@ -21,7 +21,7 @@
 
 <p align ="center">실제 구현한 화면</p>
 <p align="center">
-<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
+<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/login.png">
 <p/>
 
 
@@ -40,7 +40,7 @@
 
 <p align = "center"> 실제 구현한 화면 </p>
 <p align="center">
-<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
+<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/how_to.png">
 <p/>
 
 
@@ -59,7 +59,7 @@
 
 <p align = "center"> 실제 구현한 화면 </p>
 <p align="center">
-<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Flat.png">
+<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/drag.png">
 <p/>
 
 
@@ -119,7 +119,7 @@
 
 <p align ="center"> 실제 구현한 화면 </p>
 <p align="center">
-<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Slides.png">
+<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Slides_execution.png">
 <p/>
 
 ## 8. Meme
@@ -137,5 +137,5 @@ create 기능을 구현할 때 쓴 라이브러리 입니다
 
 <p align ="center"> 실제 구현한 화면</p>
 <p align="center">
-<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Meme.png">
+<img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Card_generate.png">
 <p/>
