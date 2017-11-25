@@ -6,6 +6,8 @@
 
 우리가 사용한 오픈 소스 라이브러리들은 다음과 같습니다.
 
+-----
+
 ## 1. Flat HTML5/CSS3 LOGIN Form
 
 저희 사이트에서 LOGIN 기능을 구현할 때 쓴 라이브러리 입니다
@@ -24,6 +26,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/login.png">
 <p/>
 
+-------
 
 ## 2. How to Make a Website
 
@@ -43,6 +46,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/how_to.png">
 <p/>
 
+--------
 
 ## 3. Knockout Files Bindings with upload preview and drag & drop
 
@@ -62,6 +66,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/drag.png">
 <p/>
 
+-------
 
 ## 4. RRSSB
 
@@ -76,7 +81,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/RRSSB.png">
 <p/>
 
-
+-------
 
 ## 5. Bundler
 
@@ -91,6 +96,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Bundler.png">
 <p/>
 
+--------
 
 ## 6. jQuery
 
@@ -103,6 +109,7 @@
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/jQuery.png">
 <p/>
 
+--------
 
 ## 7. SlidesJS
 
@@ -121,6 +128,8 @@
 <p align="center">
 <img src = "https://github.com/gunoong011/test_demo/blob/master/image_test/Slides_execution.png">
 <p/>
+
+-------
 
 ## 8. Meme
 
