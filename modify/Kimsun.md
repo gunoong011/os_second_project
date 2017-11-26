@@ -25,7 +25,7 @@
 ## <div id="basic_rules">1. 기본 규칙</div>
 ### <div id="valid">1.1. W3C Validation</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;모바일에서 CSS는 사용 가능한 Hack과 CSS3 속성을 제외하고 W3C Validation을 통과해야 한다.
+&nbsp;&nbsp;&nbsp;&nbsp;모바일에서 CSS는 사용 가능한 Hack과 CSS3 속성을 제외하고 [W3C Validation](http://jigsaw.w3.org/css-validator/#validate_by_uri)을 통과해야 한다.
 
 <br/>
 
@@ -65,7 +65,7 @@
 
 |올바른 예|잘못된 예|
 |--------|--------|
-|.form{<br/>&nbsp;&nbsp;background: ##FFFFFF;<br/>}<br/>.form input{<br/>&nbsp;&nbsp;background : ##F2F2F2;<br/>}|.form{<br/>&nbsp;&nbsp;background: ##FFFFFF;<br/>}<br/>**&#94;&#94;.form input{<br/>&#94;&#94;&#94;&#94;background : ##F2F2F2;<br/>&#94;&#94;}**|
+|.form{<br/>&nbsp;&nbsp;background: #ffffff;<br/>}<br/>.form input{<br/>&nbsp;&nbsp;background : #f2f2f2;<br/>}|.form{<br/>&nbsp;&nbsp;background: #ffffff;<br/>}<br/>**&#94;&#94;.form input{<br/>&#94;&#94;&#94;&#94;background : #f2f2f2;<br/>&#94;&#94;}**|
 
 <br/>
 
