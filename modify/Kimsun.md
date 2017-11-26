@@ -17,7 +17,7 @@
 &nbsp;&nbsp;**5. [속성](#property)<br/>**
 &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;5.1. [속성 선언 순서](#prop_order)<br/>**
 
-
+<br/><br/><hr/><br/><br/>
 
 ## <div id="basic_rules">1. 기본 규칙</div>
 ### <div id="valid">1.1. W3C Validation</div>
@@ -60,7 +60,7 @@
 |.form{<br/>&nbsp;&nbsp;background: ##FFFFFF;<br/>}<br/>.form input{<br/>&nbsp;&nbsp;background : ##F2F2F2;<br/>}|.form{<br/>&nbsp;&nbsp;background: ##FFFFFF;<br/>}<br/>&nbsp;&nbsp;**.form input{<br/>&nbsp;&nbsp;&nbsp;&nbsp;background : ##F2F2F2;<br/>&nbsp;&nbsp;}**|
 
 <br/><br/>
-### <div id="font">1.5. 글꼴</div>
+### <div id="font">1.6. 글꼴</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;다른 글꼴을 사용 할 수 있지만 글꼴의 기본은 **sans-serif** 로 정한다.
 
@@ -91,6 +91,7 @@
 |--------|--------|
 |html, body&##94;{<br/>&nbsp;&nbsp;margin: 0;<br/>&nbsp;&nbsp;padding: 0;<br/>}<br/>|html, **body{**<br/>&nbsp;&nbsp;margin: 0;<br/>&nbsp;&nbsp;padding: 0;<br/>}<br/>|
 
+<br/><br/>
 ### <div id="spcae_bw_propNbrace">2.4. 속성(property)과 중괄호({ }) 간 공백</div>
 &nbsp;&nbsp;&nbsp;&nbsp;속성(property)과 중괄호({ }) 간 공백은 없어야하며 **개행**으로 구분한다.<br/><br/>
 
