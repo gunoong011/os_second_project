@@ -21,7 +21,9 @@
 
 1. 먼저 gunoong011/os_second_project repository 를 `Fork` 해주세요 
 
-(사진- Fork를 가리키는)
+<p align ="center">
+<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/real_fork.png">
+</p>
 
 2. master branch 외에 각자만의 branch를 따로 만들어주세요 
 
@@ -45,7 +47,6 @@ your_branch_name에 자신이 만들려는 branch 이름을 넣어 만들어준�
 
 
 ```{.no-highlight}
-
 base fork : gunoong011/os_second_project 
 
 base : master 
@@ -53,9 +54,12 @@ base : master
 head fork : your fork repository 
 
 compare : your_branch_name
-
 ```
 
 head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 적고 `pull request`를 만들어주면 됩니다
 
 6. 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토할 것입니다
+
+### 두번째 방법 
+
+업데이트 중 입니다
