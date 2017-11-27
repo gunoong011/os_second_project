@@ -19,6 +19,8 @@
 
 ### 첫번째 방법 
 
+<strong> Fork & pull request를 이용하여 참여하기</strong>
+
 1. 먼저 gunoong011/os_second_project repository 를 `Fork` 해주세요 
 
 <p align ="center">
@@ -31,13 +33,13 @@
 
 	$  git branch your_branch_name
 
-your_branch_name에 자신이 만들려는 branch 이름을 넣어 만들어준다
+your_branch_name에 자신이 만들려는 branch 이름을 넣어 만들어줍니다
 
 위의 명령어로 각자만의 branch 를 만든 후에 만든 branch 로 이동하려면 
 
 	$  git checkout your_branch_name 
 
-위 명령어를 사용하면 된다
+위 명령어를 사용하면 됩니다
 
 3. 각자의 branch 에서 자유롭게 변경 내용을 작성합니다.
 
@@ -58,8 +60,48 @@ compare : your_branch_name
 
 head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 적고 `pull request`를 만들어주면 됩니다
 
-6. 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토할 것입니다
+6. 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다
+
+---
 
 ### 두번째 방법 
 
-업데이트 중 입니다
+직접 변경 내용을 작성하지 않고 단순히 의견을 보내주는 방법입니다
+
+<strong>gunoong011/os_second_project에 `issue` 작성하기</strong>
+
+1. gunoong011/os_second_project에서 `issue` 를 클릭합니다
+
+(issue 클릭 사진)
+
+2. `new issue` 를 클릭하여 새로운 이슈를 작성합니다
+
+(new issue 클릭하기 사진)
+
+3. issue 작성하기 
+
+(issue 작성 사진)
+
+* Title에 제목을 작성합니다 
+
+* Write를 클릭하고 Leave a comment 자리에 의견을 작성할 수 있습니다 (Markdown 문법을 사용하여 작성합니다)
+
+* Assigness 에는 이 issue를 봐야하는 사람들을 클릭합니다 
+
+* Labels 을 클릭하여 자신의 issue가 어느 범위에 들어가는지 확인하고 해당 사항을 클릭해줍니다
+
+예시) 
+
+bug 
+
+create 
+
+duplicate 
+
+enhancement
+
+question 
+
+등의 Label 이 존재합니다
+
+4. submit new issue 를 눌러 issue를 제출합니다
