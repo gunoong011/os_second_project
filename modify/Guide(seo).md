@@ -57,12 +57,12 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 사용된 라이선스
 -------------
-#### - [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/3-Clause_BSD_License(BSD-3-Clause)/MemeLicense.md)
+#### - [The MIT License](https://github.com/gunoong011/os_second_project/tree/master/Library_License/The_MIT_License)
 
-#### - BSD 3-clause License
+#### - [BSD 3-clause License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/3-Clause_BSD_License(BSD-3-Clause)/MemeLicense.md)
 
-#### - Apache License, Version 2.0
-  (*완성 직전에 라이선스 폴더 링크 걸기)
+#### - [Apache License, Version 2.0](https://github.com/gunoong011/os_second_project/blob/master/Library_License/Apache_License_Version_2.0/SlidesLicense.md)
+  
   
   
 os_second_project의 라이선스
