@@ -79,7 +79,7 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 2. `new issue` 를 클릭하여 새로운 이슈를 작성합니다
 
 <p align ="center">
-<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/new_issue2.png">
+<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/new_issue3.png">
 </p>
 
 3. `issue` 작성하기 
