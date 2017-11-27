@@ -60,7 +60,7 @@ compare : your_branch_name
 
 head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 적고 `pull request`를 만들어주면 됩니다
 
-<storng> (6) 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
+<storng> (6) 이렇게 보내신 `pull request`를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
 
 ---
 
