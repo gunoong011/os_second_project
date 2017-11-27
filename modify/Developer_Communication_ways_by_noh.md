@@ -96,20 +96,6 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 * `Labels` 을 클릭하여 자신의 `issue`가 어느 범위에 들어가는지 확인하고 해당 사항을 클릭해줍니다
 
-예시) 
-
-`bug`
-
-`create` 
-
-`duplicate` 
-
-`enhancement`
-
-`question` 
-
-등의 `Label` 이 존재합니다
+* `Label` 예시 : `bug`, `create`, `duplicate`, `enhancement`,`question` 
 
 4. `submit new issue` 를 눌러 `issue`를 제출합니다
-
-**업데이트 중입니다**
