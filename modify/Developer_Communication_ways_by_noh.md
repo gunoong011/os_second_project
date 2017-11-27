@@ -105,3 +105,5 @@ question
 등의 Label 이 존재합니다
 
 4. submit new issue 를 눌러 issue를 제출합니다
+
+**업데이트 중입니다**
