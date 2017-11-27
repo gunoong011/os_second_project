@@ -80,4 +80,4 @@ os_second_project의 라이선스
 - bundler install은 window 보단 mac os에서 설치가 더 간단합니다.
 - 본 코드는 아직 개발 중인 상태입니다.
 - 본 프로젝트는 한양대학교 ERICA 오픈소스 프로젝트를 위해 만들어진 것입니다.
-- 프로젝트 참여방법은 xxxx문서를 참고해 주세요(링크).
+- 프로젝트 참여방법은 [Developer Communication ways](https://github.com/gunoong011/os_second_project/blob/master/modify/Developer_Communication_ways_by_noh.md)문서를 참고해 주세요(링크).
