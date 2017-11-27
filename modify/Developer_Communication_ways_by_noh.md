@@ -1,4 +1,4 @@
-# Developer Communication ways
+# 개발 참여 방법 안내서
 
 ## 시작하기에 앞서
 
