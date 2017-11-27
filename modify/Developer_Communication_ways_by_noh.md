@@ -90,7 +90,7 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 * `Title`에 제목을 작성합니다 
 
-* `Write`를 클릭하고 `Leave a comment` 자리에 의견을 작성할 수 있습니다 ([Markdown 문법](https://github.com/gunoong011/os_second_project)을 사용하여 작성합니다)
+* `Write`를 클릭하고 `Leave a comment` 자리에 의견을 작성할 수 있습니다 ([Markdown 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)을 사용하여 작성합니다)
 
 * `Assigness` 에는 이 `issue`를 봐야하는 사람들을 클릭합니다 
 
