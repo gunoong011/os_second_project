@@ -21,13 +21,13 @@
 
 <strong> Fork & pull request를 이용하여 참여하기</strong>
 
-<storng> 1. 먼저 gunoong011/os_second_project repository 를 `Fork` 해주세요 </storng>
+<storng> (1) 먼저 gunoong011/os_second_project repository 를 `Fork` 해주세요 </storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/real_fork.png">
 </p>
 
-<storng> 2. master branch 외에 각자만의 branch를 따로 만들어주세요 </storng>
+<storng> (2) master branch 외에 각자만의 branch를 따로 만들어주세요 </storng>
 
 예시) `git branch` 명령어를 사용하여 branch를 만든 경우 
 
@@ -41,11 +41,11 @@ your_branch_name에 자신이 만들려는 branch 이름을 넣어 만들어줍�
 
 위 명령어를 사용하면 됩니다
 
-<storng> 3. 각자의 branch 에서 자유롭게 변경 내용을 작성합니다.</storng>
+<storng> (3) 각자의 branch 에서 자유롭게 변경 내용을 작성합니다.</storng>
 
-<storng> 4. 수정하거나 새로 반영된 변경사항을 `commit` 하여 변경 내용을 반영해 줍니다 </storng>
+<storng> (4) 수정하거나 새로 반영된 변경사항을 `commit` 하여 변경 내용을 반영해 줍니다 </storng>
 
-<storng> 5. 변경사항을 gunoong011/os_second_project 에 반영하고 싶은 경우 `pull request`를 보냅니다</storng>
+<storng> (5) 변경사항을 gunoong011/os_second_project 에 반영하고 싶은 경우 `pull request`를 보냅니다</storng>
 
 
 ```{.no-highlight}
@@ -60,7 +60,7 @@ compare : your_branch_name
 
 head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 적고 `pull request`를 만들어주면 됩니다
 
-<storng> 6. 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
+<storng> (6) 이렇게 보내신 pull request를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
 
 ---
 
@@ -70,19 +70,19 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 <strong>gunoong011/os_second_project에 `issue` 작성하기</strong>
 
-<storng> 1. gunoong011/os_second_project에서 `issue` 를 클릭합니다</storng>
+<storng> (1) gunoong011/os_second_project에서 `issue` 를 클릭합니다</storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/create_issue2.png">
 </p>
 
-<storng> 2. `new issue` 를 클릭하여 새로운 이슈를 작성합니다</storng>
+<storng> (2) `new issue` 를 클릭하여 새로운 이슈를 작성합니다</storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/new_issue3.png">
 </p>
 
-<storng> 3. `issue` 작성하기 
+<storng> (3) `issue` 작성하기 </storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/issue_write.png">
@@ -98,4 +98,4 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 * `Label` 예시 : `bug`, `create`, `duplicate`, `enhancement`,`question` 
 
-<storng> 4. `submit new issue` 를 눌러 `issue`를 제출합니다</storng>
+<storng> (4) `submit new issue` 를 눌러 `issue`를 제출합니다</storng>
