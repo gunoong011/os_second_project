@@ -21,7 +21,7 @@
 
 <strong> Fork & pull request를 이용하여 참여하기</strong>
 
-<storng> (1) 먼저 gunoong011/os_second_project repository 를 `Fork` 해주세요 </storng>
+<storng> (1) 먼저 [gunoong011/os_second_project repository](https://github.com/gunoong011/os_second_project)에서 `Fork` 버튼을 클릭해 `Fork`해주세요</storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/real_fork.png">
@@ -45,7 +45,7 @@ your_branch_name에 자신이 만들려는 branch 이름을 넣어 만들어줍�
 
 <storng> (4) 수정하거나 새로 반영된 변경사항을 `commit` 하여 변경 내용을 반영해 줍니다 </storng>
 
-<storng> (5) 변경사항을 gunoong011/os_second_project 에 반영하고 싶은 경우 `pull request`를 보냅니다</storng>
+<storng> (5) 변경사항을 [gunoong011/os_second_project](https://github.com/gunoong011/os_second_project) 에 반영하고 싶은 경우 `pull request`를 보냅니다</storng>
 
 
 ```{.no-highlight}
@@ -68,9 +68,9 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 직접 변경 내용을 작성하지 않고 단순히 의견을 보내주는 방법입니다
 
-<strong>gunoong011/os_second_project에 `issue` 작성하기</strong>
+<strong>`issue` 작성하기</strong>
 
-<storng> (1) gunoong011/os_second_project에서 `issue` 를 클릭합니다</storng>
+<storng> (1) [gunoong011/os_second_project](https://github.com/gunoong011/os_second_project)에서 `issue` 를 클릭합니다</storng>
 
 <p align ="center">
 <img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/create_issue2.png">
@@ -90,7 +90,7 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 * `Title`에 제목을 작성합니다 
 
-* `Write`를 클릭하고 `Leave a comment` 자리에 의견을 작성할 수 있습니다 (Markdown 문법을 사용하여 작성합니다)
+* `Write`를 클릭하고 `Leave a comment` 자리에 의견을 작성할 수 있습니다 ([Markdown 문법](https://github.com/gunoong011/os_second_project)을 사용하여 작성합니다)
 
 * `Assigness` 에는 이 `issue`를 봐야하는 사람들을 클릭합니다 
 
