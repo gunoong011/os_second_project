@@ -67,7 +67,7 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
   
 os_second_project의 라이선스
 ---------------------------
-- [Appache 2.0] (https://github.com/gunoong011/os_second_project/blob/master/NOTICE.txt)
+- [Appache 2.0](https://github.com/gunoong011/os_second_project/blob/master/NOTICE.txt)
 
 사용한 오픈소스 사이트
 ------------------
