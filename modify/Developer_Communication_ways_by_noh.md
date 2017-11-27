@@ -72,38 +72,44 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 1. gunoong011/os_second_project에서 `issue` 를 클릭합니다
 
-(issue 클릭 사진)
+<p align ="center">
+<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/create_issue2.png">
+</p>
 
 2. `new issue` 를 클릭하여 새로운 이슈를 작성합니다
 
-(new issue 클릭하기 사진)
+<p align ="center">
+<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/new_issue2.png">
+</p>
 
-3. issue 작성하기 
+3. `issue` 작성하기 
 
-(issue 작성 사진)
+<p align ="center">
+<img src ="https://github.com/gunoong011/test_demo/blob/master/image_test/issue_write.png">
+</p>
 
-* Title에 제목을 작성합니다 
+* `Title`에 제목을 작성합니다 
 
-* Write를 클릭하고 Leave a comment 자리에 의견을 작성할 수 있습니다 (Markdown 문법을 사용하여 작성합니다)
+* `Write`를 클릭하고 `Leave a comment` 자리에 의견을 작성할 수 있습니다 (Markdown 문법을 사용하여 작성합니다)
 
-* Assigness 에는 이 issue를 봐야하는 사람들을 클릭합니다 
+* `Assigness` 에는 이 `issue`를 봐야하는 사람들을 클릭합니다 
 
-* Labels 을 클릭하여 자신의 issue가 어느 범위에 들어가는지 확인하고 해당 사항을 클릭해줍니다
+* `Labels` 을 클릭하여 자신의 `issue`가 어느 범위에 들어가는지 확인하고 해당 사항을 클릭해줍니다
 
 예시) 
 
-bug 
+`bug`
 
-create 
+`create` 
 
-duplicate 
+`duplicate` 
 
-enhancement
+`enhancement`
 
-question 
+`question` 
 
-등의 Label 이 존재합니다
+등의 `Label` 이 존재합니다
 
-4. submit new issue 를 눌러 issue를 제출합니다
+4. `submit new issue` 를 눌러 `issue`를 제출합니다
 
 **업데이트 중입니다**
