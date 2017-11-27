@@ -10,7 +10,7 @@
 
 * [CSS STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/Kimsun.md)
 
-* [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/Hong.md)
+* [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
 
 ----
 
