@@ -57,7 +57,7 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 사용된 라이선스
 -------------
-#### - The MIT License
+#### - [The MIT License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/3-Clause_BSD_License(BSD-3-Clause)/MemeLicense.md)
 
 #### - BSD 3-clause License
 
