@@ -1,16 +1,18 @@
 목적
 -------
  본 문서는 개발자들이 os_second_project를 사용할시 사전에 인지해야할 요소를 알려주기 위해 작성되었습니다.
+
 <br>
-<br>
+
 사용된 언어
 ---------
 * HTML
 * CSS
 * JAVASCRIPT
 * RUBY
+
 <br>
-<br>
+
 개발 당시 환경
 ----------------
 OS: Mac OS(Mac Air)
@@ -20,7 +22,8 @@ HTML: version 5
 CSS: version 3
 
 <br>
-<br>
+
+
 bundle install 방법
 -----------------
 
@@ -42,11 +45,13 @@ bundle install 방법
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.26.55.png">
 
 <br>
-<br>
+
+
 #### 2. for window
 
 <br>
-<br>
+
+
 bundle 열기
 ------------
 
@@ -63,9 +68,11 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.23.57.png">
 
 <br>
-<br>
+
+
 사용된 라이선스
 -------------
+
 #### - [The MIT License](https://github.com/gunoong011/os_second_project/tree/master/Library_License/The_MIT_License)
 
 #### - [BSD 3-clause License](https://github.com/gunoong011/os_second_project/blob/master/Library_License/3-Clause_BSD_License(BSD-3-Clause)/MemeLicense.md)
@@ -74,20 +81,23 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
   
   
 <br>
-<br>
+
+
 os_second_project의 라이선스
 ---------------------------
 - [Appache 2.0](https://github.com/gunoong011/os_second_project/blob/master/NOTICE.txt)
 
 <br>
-<br>
+
+
 사용한 오픈소스 사이트
 ------------------
 - https://codepen.io/
 - https://github.com/
 
 <br>
-<br>
+
+
 참고
 -------
 - 대부분의 기능은 https://codepen.io 에서 찾아 사용하였습니다.
