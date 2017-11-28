@@ -92,8 +92,7 @@ os_second_project의 라이선스
 
 사용한 오픈소스 사이트
 ------------------
-- https://codepen.io/
-- https://github.com/
+ - [링크](https://github.com/gunoong011/os_second_project/blob/master/modify/Libraries_we_use_by_noh.md)
 
 <br>
 
