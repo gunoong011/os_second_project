@@ -10,7 +10,11 @@
 
 * [CSS STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/Kimsun.md)
 
+<<<<<<< HEAD
 * [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/Hong.md)
+=======
+* [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
+>>>>>>> fd6e8b0e03d84e60c1d64e1eadfaf3a9a7f77c6e
 
 ----
 
