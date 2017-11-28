@@ -13,7 +13,7 @@ ERICAST에 대한 합리적 접근 방법
 5. etc
 
 
-#1.들여쓰기
+##1.들여쓰기
 
 들여쓰기는 기본적으로 Space 2회로 규정한다.
 
@@ -22,7 +22,7 @@ ERICAST에 대한 합리적 접근 방법
 
 | Example |
 |---------|
-|example: function(test) {<br/>&nbsp;&nbsp;1st if () {<br/>&nbsp;&nbsp;2nd if () {<br/>&nbsp;&nbsp;3rd if () {<br/>&nbsp;&nbsp;...<br/>}<br/>}<br/>}<br/>}|
+|example: function(test) {<br/>&nbsp;&nbsp;1st if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;2nd if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd if () {<br/>&nbsp;&nbsp;...<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;&nbsp;&nbsp;}<br/>}|
 
 
 #2.명명규칙
