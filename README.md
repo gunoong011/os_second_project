@@ -1,3 +1,22 @@
+## 목차 
+
+&nbsp;&nbsp;1.[프로젝트에 대해서](https://github.com/gunoong011/os_second_project#1-프로젝트에-대해서)
+&nbsp;&nbsp;2.[프로젝트 라이선스](https://github.com/gunoong011/os_second_project#2-프로젝트-라이선스)
+&nbsp;&nbsp;3.[사용한 라이브러리](https://github.com/gunoong011/os_second_project#3-사용한-라이브러리)
+&nbsp;&nbsp;4.[개발 당시 환경](https://github.com/gunoong011/os_second_project#4-개발-당시-환경)
+&nbsp;&nbsp;5.[언어별 코딩 컨벤션](https://github.com/gunoong011/os_second_project#5-언어별-코딩-컨벤션)
+&nbsp;&nbsp;6.[웹사이트를 사용하기 전에](https://github.com/gunoong011/os_second_project#6-웹사이트를-사용하기-전에)
+&nbsp;&nbsp;&nbsp;&nbsp;6.1.[bundle 설치 방법](https://github.com/gunoong011/os_second_project#61-bundle-설치-방법)
+&nbsp;&nbsp;&nbsp;&nbsp;6.2.[bundle 열기](https://github.com/gunoong011/os_second_project#62-bundle-열기)
+&nbsp;&nbsp;7.[웹사이트 기능에 대해](https://github.com/gunoong011/os_second_project#7-웹사이트-기능에-대해)
+&nbsp;&nbsp;&nbsp;&nbsp;7.1.[create 기능](https://github.com/gunoong011/os_second_project#71-create-기능)
+&nbsp;&nbsp;&nbsp;&nbsp;7.2.[그 이외의 기능](https://github.com/gunoong011/os_second_project#72-그-이외의-기능)
+&nbsp;&nbsp;8.[개발 참여 방법 안내서](https://github.com/gunoong011/os_second_project#8-개발-참여-방법-안내서)
+&nbsp;&nbsp;&nbsp;&nbsp;8.1.[첫번째 방법](https://github.com/gunoong011/os_second_project#81-첫번째-방법)
+&nbsp;&nbsp;&nbsp;&nbsp;8.2.[그 이외의 기능](https://github.com/gunoong011/os_second_project#82-두번째-방법)
+
+---
+
 ## 1. 프로젝트에 대해서
 
 <strong> os_second_project</strong>
@@ -6,6 +25,7 @@
 
 본 프로젝트는 대학교 오픈소스 프로젝트의 일환으로 진행된 프로젝트 중 하나입니다
 
+---
 
 ## 2. 프로젝트 라이선스 
 
@@ -15,6 +35,8 @@
 
 위 두가지를 꼭 읽어주시어 라이선스에 착오가 없으시길 바랍니다
 
+
+---
 
 ## 3. 사용한 라이브러리 
 
@@ -37,6 +59,8 @@
 [Library We Use](https://github.com/gunoong011/os_second_project/blob/master/modify/Libraries_we_use_by_noh.md) 로 들어가시면 통합된 형태로 확인할 수 있습니다
 
 
+---
+
 ## 4. 개발 당시 환경 
 
 당시 개발자의 개발 환경 입니다
@@ -47,6 +71,7 @@ HTML : Version 5.0
 
 CSS : Version 3.0 
 
+---
 
 ## 5. 언어별 코딩 컨벤션 
 
@@ -59,6 +84,8 @@ CSS : Version 3.0
 * [CSS STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/css_rules.md)
 
 * [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
+
+---
 
 
 ## 6. 웹사이트를 사용하기 전에 
@@ -103,7 +130,7 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.23.57.png">
 
-
+---
 
 ## 7. 웹사이트 기능에 대해
 
@@ -164,6 +191,8 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 ### 7.2. 그 이외의 기능 
 
 업데이트 예정 입니다
+
+---
 
 
 ## 8. 개발 참여 방법 안내서
