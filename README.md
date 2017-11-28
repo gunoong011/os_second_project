@@ -14,11 +14,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1.  [bundle 설치 방법](https://github.com/gunoong011/os_second_project#61-bundle-설치-방법)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.  [bundle 열기](https://github.com/gunoong011/os_second_project#62-bundle-열기)<br>
 <br>
-&nbsp;&nbsp;7.[웹사이트 기능에 대해](https://github.com/gunoong011/os_second_project#7-웹사이트-기능에-대해)<br>
+&nbsp;&nbsp;7.  [웹사이트 기능에 대해](https://github.com/gunoong011/os_second_project#7-웹사이트-기능에-대해)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.  [create 기능](https://github.com/gunoong011/os_second_project#71-create-기능)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.  [그 이외의 기능](https://github.com/gunoong011/os_second_project#72-그-이외의-기능)<br>
 <br>
-&nbsp;&nbsp;8.[개발 참여 방법 안내서](https://github.com/gunoong011/os_second_project#8-개발-참여-방법-안내서)<br>
+&nbsp;&nbsp;8.  [개발 참여 방법 안내서](https://github.com/gunoong011/os_second_project#8-개발-참여-방법-안내서)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1.  [첫번째 방법](https://github.com/gunoong011/os_second_project#81-첫번째-방법)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.  [그 이외의 기능](https://github.com/gunoong011/os_second_project#82-두번째-방법)<br>
 
