@@ -1,5 +1,4 @@
-
-## 프로젝트에 대해서
+## 1. 프로젝트에 대해서
 
 <strong> os_second_project</strong>
 
@@ -8,7 +7,7 @@
 본 프로젝트는 대학교 오픈소스 프로젝트의 일환으로 진행된 프로젝트 중 하나입니다
 
 
-## 프로젝트 라이선스 
+## 2. 프로젝트 라이선스 
 
 * 배포 라이선스 : [Apache License, Version 2.0](https://github.com/gunoong011/os_second_project/blob/master/LICENSE)
 
@@ -17,7 +16,7 @@
 위 두가지를 꼭 읽어주시어 라이선스에 착오가 없으시길 바랍니다
 
 
-## 사용한 라이브러리 
+## 3. 사용한 라이브러리 
 
 1. [Flat HTML5/CSS3 LOGIN Form](https://github.com/gunoong011/os_second_project/blob/master/modify/Libraries_we_use_by_noh.md#1-flat-html5css3-login-form)
 
@@ -38,7 +37,7 @@
 [Library We Use](https://github.com/gunoong011/os_second_project/blob/master/modify/Libraries_we_use_by_noh.md) 로 들어가시면 통합된 형태로 확인할 수 있습니다
 
 
-## 개발 당시 환경 
+## 4. 개발 당시 환경 
 
 당시 개발자의 개발 환경 입니다
 
@@ -49,7 +48,7 @@ HTML : Version 5.0
 CSS : Version 3.0 
 
 
-## 언어별 코딩 컨벤션 
+## 5. 언어별 코딩 컨벤션 
 
 이 프로젝트에서 지키는 코딩 컨벤션입니다 
 
@@ -62,11 +61,11 @@ CSS : Version 3.0
 * [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
 
 
-## 웹사이트를 사용하기 전에 
+## 6. 웹사이트를 사용하기 전에 
 
 웹사이트를 사용하기 전에 필요한 요소들을 설치하는 방법입니다
 
-### bundle 설치 방법 
+### 6.1. bundle 설치 방법 
 
 (1) for mac os
 
@@ -90,7 +89,7 @@ CSS : Version 3.0
 (2) for windows os
 
 
-### bundle 열기 
+### 6.2. bundle 열기 
 
 create 기능을 사용하기 위해서는 bundle을 열어야 합니다.
 
@@ -106,9 +105,9 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 
 
-## 웹사이트 기능에 대해
+## 7. 웹사이트 기능에 대해
 
-### create 기능 
+### 7.1. create 기능 
 
 **(1) 배경 사진 넣기**
 
@@ -162,13 +161,18 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 
  위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
-## 개발 참여 방법 안내서
+### 7.2. 그 이외의 기능 
+
+업데이트 예정 입니다
+
+
+## 8. 개발 참여 방법 안내서
 
 개발 참여 방법 안내를 위한 안내서 입니다 
 
-꼭 읽어주시어 참여해주길 부탁드립니다
+꼭 읽어주시어 참여해주시길 부탁드립니다
 
-### 첫번째 방법 
+### 8.1. 첫번째 방법 
 
 <strong> Fork & pull request를 이용하여 참여하기</strong>
 
@@ -214,7 +218,7 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 <storng> (6) 이렇게 보내신 `pull request`를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
 
 
-### 두번째 방법 
+### 8.2. 두번째 방법 
 
 직접 변경 내용을 작성하지 않고 단순히 의견을 보내주는 방법입니다
 
