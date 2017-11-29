@@ -1,4 +1,7 @@
-# 목록
+ERICAST CSS Style Guide
+===========================
+
+# 목차
 
 &nbsp;&nbsp;**1. [기본규칙](#basic_rules)<br/>**
 &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;1.1. [W3C Validation](#valid)<br/>**
