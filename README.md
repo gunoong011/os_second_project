@@ -20,7 +20,7 @@
 <br>
 &nbsp;&nbsp;8.  [개발 참여 방법 안내서](https://github.com/gunoong011/os_second_project#8-개발-참여-방법-안내서)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1.  [첫번째 방법](https://github.com/gunoong011/os_second_project#81-첫번째-방법)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.  [그 이외의 기능](https://github.com/gunoong011/os_second_project#82-두번째-방법)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.  [두번째 방법](https://github.com/gunoong011/os_second_project#82-두번째-방법)<br>
 
 ---
 
