@@ -100,7 +100,7 @@ CSS : Version 3.0
 ---
 
 
-## <div id = "before_using>6. 웹사이트를 사용하기 전에 </div>
+## <div id = "before_using">6. 웹사이트를 사용하기 전에 </div>
 
 웹사이트를 사용하기 전에 필요한 요소들을 설치하는 방법입니다
 
@@ -165,7 +165,7 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 
 카드뉴스의 제목은 "Headline"을 통해 작성을 할 수 있습니다.
 
-<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.04.48.png">
+<img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.04.48.png" border="10">
 
 **(3)꾸미기**
 
@@ -177,7 +177,9 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 2. 텍스트의 크기
 3. 글씨체
 
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.06.21.png">
+</kbd>
 
 **(4)내용 작성**
 
