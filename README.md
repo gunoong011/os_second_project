@@ -1,3 +1,8 @@
+# os_second_project
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 ## 목차 
 
 &nbsp;&nbsp;1.  [프로젝트에 대해서](https://github.com/gunoong011/os_second_project#1-프로젝트에-대해서)<br>
