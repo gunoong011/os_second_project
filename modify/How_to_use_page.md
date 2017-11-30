@@ -26,7 +26,7 @@ LOGIN 버튼 클릭 시 아이디와 비밀번호를 입력 할 수 있는 팝�
 ## 4.CREATE
 
 직접 카드 뉴스를 만들어 파일을 생성합니다.<br/>
-자세한 사항은 create guide 에서 확인 가능합니다.<br/>
+자세한 사항은 [create guide](https://github.com/gunoong011/os_second_project/blob/master/modify/How_to_use_Create%3F.md) 에서 확인 가능합니다.<br/>
 <br/><br/>
 
 ## 5.UPLOAD
