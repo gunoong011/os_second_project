@@ -3,6 +3,7 @@ ERICAST HTML Style Guide
 
 # 목차
 
+&nbsp;&nbsp;**0. [W3C Validation](#w3c)<br/>**
 &nbsp;&nbsp;**1. [들여쓰기](#indent)<br/>**
 &nbsp;&nbsp;**2. [기본 네이밍](#naming)<br/>**
 &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;2.1. [일반 규칙](#basic_rule)<br/>**
@@ -23,6 +24,11 @@ ERICAST HTML Style Guide
 &nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;5.2. [파일 및 폴더 네이밍 조합](#file_folder_combi)<br/>**
 <br/><br/><hr/>
 
+## <div id="w3c">0. W3C Validation</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;모든 HTML 파일은 [W3C Validation](https://validator.w3.org/#validate_by_uri)에서 통과하여 **오류**가 없어야한다.
+
+<br/><br/><hr/><br/><br/>
 
 ## <div id="indent">1. 들여쓰기</div>
 
