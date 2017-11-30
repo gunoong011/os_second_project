@@ -1,37 +1,37 @@
-# os_second_project
+# ERICAST
 [![travis-ci badge](https://travis-ci.org/gunoong011/os_second_project.svg?branch=master)](https://travis-ci.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gunoong011/os_second_project/blob/master/LICENSE)
 
 
 ## 목차 
 
-&nbsp;&nbsp;1.  [프로젝트에 대해서](https://github.com/gunoong011/os_second_project#1-프로젝트에-대해서)<br>
+&nbsp;&nbsp;1.  [프로젝트에 대해서](#about_project)<br>
 <br>
-&nbsp;&nbsp;2.  [프로젝트 라이선스](https://github.com/gunoong011/os_second_project#2-프로젝트-라이선스)<br>
+&nbsp;&nbsp;2.  [프로젝트 라이선스]#project_license)<br>
 <br>
-&nbsp;&nbsp;3.  [사용한 라이브러리](https://github.com/gunoong011/os_second_project#3-사용한-라이브러리)<br>
+&nbsp;&nbsp;3.  [사용한 라이브러리](#use_library)<br>
 <br>
-&nbsp;&nbsp;4.  [개발 당시 환경](https://github.com/gunoong011/os_second_project#4-개발-당시-환경)<br>
+&nbsp;&nbsp;4.  [개발 당시 환경](#enviroment)<br>
 <br>
-&nbsp;&nbsp;5.  [언어별 코딩 컨벤션](https://github.com/gunoong011/os_second_project#5-언어별-코딩-컨벤션)<br>
+&nbsp;&nbsp;5.  [언어별 코딩 컨벤션](#language_coding)<br>
 <br>
-&nbsp;&nbsp;6.  [웹사이트를 사용하기 전에](https://github.com/gunoong011/os_second_project#6-웹사이트를-사용하기-전에)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1.  [bundle 설치 방법](https://github.com/gunoong011/os_second_project#61-bundle-설치-방법)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.  [bundle 열기](https://github.com/gunoong011/os_second_project#62-bundle-열기)<br>
+&nbsp;&nbsp;6.  [웹사이트를 사용하기 전에](#before_using)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.1.  [bundle 설치 방법](#install_bundler)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2.  [bundle 열기](#open_bundler)<br>
 <br>
-&nbsp;&nbsp;7.  [웹사이트 기능에 대해](https://github.com/gunoong011/os_second_project#7-웹사이트-기능에-대해)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.  [create 기능](https://github.com/gunoong011/os_second_project#71-create-기능)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.  [그 이외의 기능](https://github.com/gunoong011/os_second_project#72-그-이외의-기능)<br>
+&nbsp;&nbsp;7.  [웹사이트 기능에 대해](#about_website)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.  [create 기능](#create_function)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.  [그 이외의 기능](#another_function)<br>
 <br>
-&nbsp;&nbsp;8.  [개발 참여 방법 안내서](https://github.com/gunoong011/os_second_project#8-개발-참여-방법-안내서)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1.  [첫번째 방법](https://github.com/gunoong011/os_second_project#81-첫번째-방법)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.  [두번째 방법](https://github.com/gunoong011/os_second_project#82-두번째-방법)<br>
+&nbsp;&nbsp;8.  [개발 참여 방법 안내서](#information)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1.  [첫번째 방법](#first_way)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.  [두번째 방법](#second_way)<br>
 
 ---
 
-## 1. 프로젝트에 대해서
+## <div id ="about_project"> 1. 프로젝트에 대해서</div>
 
-<strong> os_second_project</strong>
+*ERICAST*
 
 카드 컨텐츠를 제작하고 유통하는 웹페이지를 만드는 프로젝트 입니다
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 2. 프로젝트 라이선스 
+## <div id ="project_license">2. 프로젝트 라이선스 </div>
 
 * 배포 라이선스 : [Apache License, Version 2.0](https://github.com/gunoong011/os_second_project/blob/master/LICENSE)
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 3. 사용한 라이브러리 
+## <div id = "use_library">3. 사용한 라이브러리 </div>
 
 1. [Flat HTML5/CSS3 LOGIN Form](https://github.com/gunoong011/os_second_project/blob/master/modify/Libraries_we_use_by_noh.md#1-flat-html5css3-login-form)
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 4. 개발 당시 환경 
+## <div id ="enviroment">4. 개발 당시 환경</div> 
 
 당시 개발자의 개발 환경 입니다
 
@@ -85,7 +85,7 @@ CSS : Version 3.0
 
 ---
 
-## 5. 언어별 코딩 컨벤션 
+## <div id ="language_coding">5. 언어별 코딩 컨벤션 </div>
 
 이 프로젝트에서 지키는 코딩 컨벤션입니다 
 
@@ -95,16 +95,16 @@ CSS : Version 3.0
 
 * [CSS STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/css_rules.md)
 
-* [JAVA SCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
+* [JAVASCRIPT STYLE GUIDE](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md)
 
 ---
 
 
-## 6. 웹사이트를 사용하기 전에 
+## <div id = "before_using>6. 웹사이트를 사용하기 전에 </div>
 
 웹사이트를 사용하기 전에 필요한 요소들을 설치하는 방법입니다
 
-### 6.1. bundle 설치 방법 
+### <div id = "install_bundler">6.1. bundle 설치 방법 </div>
 
 (1) for mac os
 
@@ -128,7 +128,7 @@ CSS : Version 3.0
 (2) for windows os
 
 
-### 6.2. bundle 열기 
+### <div id ="open_bundler">6.2. bundle 열기</div> 
 
 create 기능을 사용하기 위해서는 bundle을 열어야 합니다.
 
@@ -144,9 +144,9 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 ---
 
-## 7. 웹사이트 기능에 대해
+## <div id ="about_website">7. 웹사이트 기능에 대해</div>
 
-### 7.1. create 기능 
+### <div id ="create_function">7.1. create 기능 </div>
 
 **(1) 배경 사진 넣기**
 
@@ -200,20 +200,20 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 
  위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
-### 7.2. 그 이외의 기능 
+### <div  id = "another_function">7.2. 그 이외의 기능 </div>
 
 업데이트 예정 입니다
 
 ---
 
 
-## 8. 개발 참여 방법 안내서
+## <div id ="information">8. 개발 참여 방법 안내서</div>
 
 개발 참여 방법 안내를 위한 안내서 입니다 
 
 꼭 읽어주시어 참여해주시길 부탁드립니다
 
-### 8.1. 첫번째 방법 
+### <div id = "first_way">8.1. 첫번째 방법</div> 
 
 <strong> Fork & pull request를 이용하여 참여하기</strong>
 
@@ -259,7 +259,7 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 <storng> (6) 이렇게 보내신 `pull request`를 repository 관리자가 최종적으로 변경사항을 검토하여 반영여부를 결정할 것입니다</storng>
 
 
-### 8.2. 두번째 방법 
+### <div id ="second_way">8.2. 두번째 방법 </div>
 
 직접 변경 내용을 작성하지 않고 단순히 의견을 보내주는 방법입니다
 
@@ -295,4 +295,4 @@ head fork에 각자 repository 이름을 compare 에는 각자 branch 이름을 
 
 <storng> (4) `submit new issue` 를 눌러 `issue`를 제출합니다</storng>
 
-위 내용은 [개발 참여 방법 안내서 전문](https://github.com/gunoong011/os_second_project/blob/master/modify/Developer_Communication_ways_by_noh.md) 도 확인할 수 있습니다
+위 내용은 [개발 참여 방법 안내서 전문](https://github.com/gunoong011/os_second_project/blob/master/modify/Developer_Communication_ways_by_noh.md)에서도 확인할 수 있습니다
