@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;1.  [프로젝트에 대해서](#about_project)<br>
 <br>
-&nbsp;&nbsp;2.  [프로젝트 라이선스]#project_license)<br>
+&nbsp;&nbsp;2.  [프로젝트 라이선스](#project_license)<br>
 <br>
 &nbsp;&nbsp;3.  [사용한 라이브러리](#use_library)<br>
 <br>
