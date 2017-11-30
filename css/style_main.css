@@ -97,6 +97,15 @@ footer {
   color: #ccc;
 }
 
+footer div{
+  margin: 10px auto;
+}
+
+footer .ico, .ico a{
+  text-decoration: none;
+  display: inline;
+  color: #ccc;
+}
 .social-icon {
   width: 20px;
   height: 20px;
