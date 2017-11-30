@@ -3,83 +3,75 @@
 <head>
   <meta charset="UTF-8">
   <title>ERICAST : THE NEWS CARDS</title>
-  <meta charset="utf-8">
-<link rel="stylesheet" href="css/normalize.css">
-<link href='https://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-
-  
-      <link rel="stylesheet" href="css/style_main.css">
-
-<script language="javascript">
-	function winOpen(url){
-		myWin = window.open(url, "new", "width=600, height=500, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no");
-		myWin.focus();
-	}
-</script>
-
-  
+  <link rel="stylesheet" href="css/font.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">  
+  <link rel="stylesheet" href="css/style_main.css">
+  <script>
+    function winOpen(url){
+      myWin = window.open(url, "new", "width=600, height=500, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no");
+      myWin.focus();
+    }
+  </script>
 </head>
 
 <body>
   <header>
-  <a href="index.html" id="logo">
-    <h1>ERICAST</h1>
-    <h2>AWESOME NEWS CARDS</h2>
-  </a>
-  <nav>
-    <ul>
-      <li><a href="index.html" class="selected">NEWS</a></li>
-      <li><a href="#" onclick="window.open('login.html', '', 'width=500, height=500, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no')">LOGIN</a></li>
-      <li><a href="http://localhost:4567">CREATE</a></li>
-      <li><a href="#" onclick="window.open('upload.html', '', 'width=1000, height=400, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no')">UPLOAD</a></li>
-    </ul>
-  </nav>
-</header>
+    <a href="index.html" id="logo">
+      <h1>ERICAST</h1>
+      <h2>AWESOME NEWS CARDS</h2>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="selected">NEWS</a></li>
+        <li><a href="#" onclick="window.open('login.html', '', 'width=500, height=500, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no')">LOGIN</a></li>
+        <li><a href="http://localhost:4567">CREATE</a></li>
+        <li><a href="#" onclick="window.open('upload.html', '', 'width=1000, height=400, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no')">UPLOAD</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<div id="wrapper">
-  <section>
-    <ul id="gallery">
-      <li>
-        <a href="#">
-          <img src="slide/img/a/a-1.png" alt="" onclick="winOpen('slide/a.html')">
-          <p>Welcome to ERICAST!</p>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <img src="slide/img/b/b-1.png" alt="" onclick="winOpen('slide/b.html')">
-          <p>Awesome cards, good news!</p>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <img src="slide/img/c/c-1.png" alt="" onclick="winOpen('slide/c.html')">
-          <p>Look at this alpaca!</p>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <img src="slide/img/d/d-1.png" alt="" onclick="winOpen('slide/d.html')">
-          <p>Home sweet home...</p>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <img src="slide/img/e/e-1.png" alt="" onclick="winOpen('slide/e.html')">
-          <p>Having trouble with choosing lunch?</p>
-        </a>
-      </li>
-    </ul>
-  </section>
-  <footer>
-    <a href="https://twitter.com/nickrp"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/25480/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
-    <a href="https://facebook.com/nickpettit"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/25480/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
-    <p>&copy; 2014 Nick Pettit.</p>
-  </footer>
-</div>
-  
-  
+  <div id="wrapper">
+    <section>
+      <ul id="gallery">
+        <li>
+          <a href="#">
+            <img src="slide/img/a/a-1.png" alt="" onclick="winOpen('slide/a.html')">
+            <p>Welcome to ERICAST!</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="slide/img/b/b-1.png" alt="" onclick="winOpen('slide/b.html')">
+            <p>Awesome cards, good news!</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="slide/img/c/c-1.png" alt="" onclick="winOpen('slide/c.html')">
+            <p>Look at this alpaca!</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="slide/img/d/d-1.png" alt="" onclick="winOpen('slide/d.html')">
+            <p>Home sweet home...</p>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <img src="slide/img/e/e-1.png" alt="" onclick="winOpen('slide/e.html')">
+            <p>Having trouble with choosing lunch?</p>
+          </a>
+        </li>
+      </ul>
+    </section>
+    <footer>
+      <a href="https://twitter.com/nickrp"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/25480/twitter-wrap.png" alt="Twitter Logo" class="social-icon"></a>
+      <a href="https://facebook.com/nickpettit"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/25480/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
+      <p>&copy; 2014 Nick Pettit.</p>
+    </footer>
+  </div>
+
 </body>
 </html>
