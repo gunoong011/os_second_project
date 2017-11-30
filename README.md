@@ -1,6 +1,6 @@
 # os_second_project
 [![travis-ci badge](https://travis-ci.org/gunoong011/os_second_project.svg?branch=master)](https://travis-ci.org)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gunoong011/os_second_project/blob/master/LICENSE)
 
 
 ## 목차 
