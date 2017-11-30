@@ -2,3 +2,8 @@
   max-width: 750px;
   padding: 15px;
 }
+
+#upload{
+	display: block;
+	margin: 0 auto;
+}
