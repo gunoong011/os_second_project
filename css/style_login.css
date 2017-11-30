@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .login-page {
@@ -40,7 +40,6 @@
   font-size: 14px;
   color: #ffffff;
   text-transform: uppercase;
-  transition: all 0.3 ease;
   -webkit-transition: all 0.3 ease;
   cursor: pointer;
 }
@@ -114,8 +113,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;    
 }
-=======
-@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .login-page {
   width: 360px;
@@ -156,7 +153,6 @@ body {
   font-size: 14px;
   color: #ffffff;
   text-transform: uppercase;
-  transition: all 0.3 ease;
   -webkit-transition: all 0.3 ease;
   cursor: pointer;
 }
@@ -230,4 +226,3 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;    
 }
->>>>>>> fd6e8b0e03d84e60c1d64e1eadfaf3a9a7f77c6e
