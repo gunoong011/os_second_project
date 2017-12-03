@@ -50,7 +50,7 @@ ERICAST에 대한 합리적 접근 방법
 
 | Bad | Good |
 |-----|------|
-|TestNamingClass: function() { // 동사가 영문 대문자로 시작</br>&nbsp;&nbsp;test = (a + b);</br>}|testNamingClass: function() { // 표기법 준수</br>&nbsp;&nbsp;test = (a + b);</br>}|
+|**TestNamingClass**: function() { // 동사가 영문 대문자로 시작</br>&nbsp;&nbsp;test = (a + b);</br>}|**testNamingClass**: function() { // 표기법 준수</br>&nbsp;&nbsp;test = (a + b);</br>}|
 
 ### 3. 주석
 
@@ -63,8 +63,8 @@ ERICAST에 대한 합리적 접근 방법
 | Bad | Good |
 |-----|------|
 |function someFunction() {</br>// statement에 관한 주석</br></br>&nbsp;&nbsp;// 들여쓰기, 주석 전 줄바꿈</br>&nbsp;&nbsp;statements</br>}|function someFunction()&nbsp;{</br></br>&nbsp;&nbsp;// statement에 관한 주석</br>&nbsp;&nbsp;statements</br>}|
-|var Value += data1 + data2 - length;//전후 공백 없음|var Value += data1 + data2 - length; // 전후 공백|
-|var Value += data1 + data2 - length; /* 여러 줄 주석 */||
+|var Value += data1 + data2 - length;**//전후 공백 없음**|var Value += data1 + data2 - length; **// 전후 공백**|
+|var Value += data1 + data2 - length; **/\* 여러 줄 주석 \*/**||
 
 &nbsp;&nbsp;여러줄 주석의 경우에는 가독성을 위하여 \*의 **들여쓰기**를 반드시 맞춰주도록 한다.
 
