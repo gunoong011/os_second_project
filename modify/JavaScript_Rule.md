@@ -6,18 +6,15 @@ ERICAST에 대한 합리적 접근 방법
 목차
 --------------------------------
 
-1. [들여쓰기](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#1-들여쓰기)
-2. [명명규칙](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#2-명명규칙)
-3. [주석](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#3-주석)
-4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-공백)
+**1. [들여쓰기](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#1-들여쓰기)**
+**2. [명명규칙](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#2-명명규칙)**
+**3. [주석](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#3-주석)**
+**4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-공백)**
 
 
 ### 1. 들여쓰기
 
-&nbsp;&nbsp;들여쓰기는 기본적으로 Space 2회로 규정한다.
-
-따라서, 들여쓰기가 N번 반복 될 경우
-2N회의 공백으로 표현하여야 한다.
+&nbsp;&nbsp;들여쓰기는 기본적으로 **Space 2회**로 규정한다.
 
 | Example |
 |---------|
@@ -28,15 +25,15 @@ ERICAST에 대한 합리적 접근 방법
 
 &nbsp;&nbsp;모든 변수, 클래스 등의 이름은 명시하는 명명규칙에 따라서 작성할 수 있도록 한다.
 
-기본적으로 영문 대소문자, 숫자, 언더스코어로 작성할 수 있도록 한다.
+기본적으로 **영문 대소문자, 숫자, 언더스코어**로 작성할 수 있도록 한다.
 
-다른 문자는 허용하지 않는다.
+다른 문자는 **허용하지 않는다.**
 
 #### 2.1 변수
 
 &nbsp;&nbsp;변수는 이 변수가 어디에 쓰이는 resource인지를 쉽게 알아볼 수 있도록 정한다.
 
-또한, 변수의 이름에서의 영문 소문자를 제외한 문자는 허용하지 않는다.
+또한, 변수의 이름에서의 **영문 소문자**를 제외한 문자는 허용하지 않는다.
 
 | Bad | Good |
 |-----|------|
@@ -45,9 +42,9 @@ ERICAST에 대한 합리적 접근 방법
 
 #### 2.2 클래스(함수)
 
-&nbsp;&nbsp;클래스는 이 변수가 어떠한 역할을 하는 것인지에 대한 동사와 명사로 조합하여 명명한다.
+&nbsp;&nbsp;클래스는 이 변수가 어떠한 역할을 하는 것인지에 대한 **동사**와 **명사**로 조합하여 명명한다.
 
-명명을 할 때에는 파스칼 표기법을 준수하되, 역할을 나타내는 동사는 영문 소문자로 작성할 수 있도록 한다.
+명명을 할 때에는 **파스칼 표기법**을 준수하되, 역할을 나타내는 동사는 **영문 소문자**로 작성할 수 있도록 한다.
 
 | Bad | Good |
 |-----|------|
@@ -57,9 +54,9 @@ ERICAST에 대한 합리적 접근 방법
 
 &nbsp;&nbsp;주석은 코드의 이해를 돕기 위한 보조문으로 주석은 한줄 주석과 여러줄 주석이 있다.
 
-각 주석은 설명구문의 들여쓰기에 맞춰쓰는 것을 원칙으로 한다.
+각 주석은 설명구문의 **들여쓰기에 맞춰쓰는 것**을 원칙으로 한다.
 
-문장의 끝에 주석을 작성할 경우에는 Space 1회로 띄어쓰기 하도록 한다.
+문장의 끝에 주석을 작성할 경우에는 **Space 1회**로 띄어쓰기 하도록 한다.
 
 | Bad | Good |
 |-----|------|
@@ -67,14 +64,14 @@ ERICAST에 대한 합리적 접근 방법
 |var Value += data1 + data2 - length;//전후 공백 없음|var Value += data1 + data2 - length; // 전후 공백|
 |var Value += data1 + data2 - length; /* 여러 줄 주석 */||
 
-&nbsp;&nbsp;여러줄 주석의 경우에는 가독성을 위하여 \*의 들여쓰기를 반드시 맞춰주도록 한다.
+&nbsp;&nbsp;여러줄 주석의 경우에는 가독성을 위하여 \*의 **들여쓰기**를 반드시 맞춰주도록 한다.
 
 | Bad | Good |
 |-----|------|
 |/\*</br>\* '\*' 표시의 정렬이 맞지 않는다.</br>\*/|/\*</br>&nbsp;&nbsp;\* '\*' 표시의 정렬을 맞춘다.</br>&nbsp;&nbsp;\*/|
 |...</br>/\* var foo = ''; // 첫줄 문장</br>&nbsp;&nbsp;\* var bar = '';</br>&nbsp;&nbsp;\*var quux;</br>&nbsp;&nbsp;\*/||
 
-&nbsp;&nbsp;위의 마지막 예시와 같은 코드 주석이 있다면, 반드시 한줄 주석들의 모음으로 처리한다.
+&nbsp;&nbsp;위의 마지막 예시와 같은 **코드 주석**이 있다면, 반드시 **한줄 주석들의 모음**으로 처리한다.
 
 | Example |
 |---------|
@@ -92,9 +89,7 @@ ERICAST에 대한 합리적 접근 방법
 |-----|------|
 |var value;</br>if(typeof str==='string') { // 키워드 후 공백</br>&nbsp;&nbsp;value=(a+b);</br>}|createTestClass: function() {</br>&nbsp;&nbsp;value = (a + b);</br>}|
 
-&nbsp;&nbsp;괄호의 직후에는 공백을 제거한다.
-
-단, 괄호 내의 인자들의 나열에서 콤마(,)의 직후에는 공백이 있어야 한다.
+&nbsp;&nbsp;괄호의 직후에는 공백을 제거한다. _단, 괄호 내의 인자들의 나열에서 콤마(,)의 직후에는 공백이 있어야 한다._
 
 | Bad | Good |
 |-----|------|
