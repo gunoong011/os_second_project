@@ -1,132 +1,132 @@
 ERICAST JavaScript Style Guide()
 ================================
 
-ERICASTì— ëŒ€í•œ í•©ë¦¬ì  ì ‘ê·¼ ë°©ë²•
+ERICAST¿¡ ´ëÇÑ ÇÕ¸®Àû Á¢±Ù ¹æ¹ý
 
-ëª©ì°¨
+¸ñÂ÷
 --------------------------------
 
-1. ë“¤ì—¬ì“°ê¸°
-2. ëª…ëª…ê·œì¹™
-3. ì£¼ì„
-4. ê³µë°±
+1. µé¿©¾²±â
+2. ¸í¸í±ÔÄ¢
+3. ÁÖ¼®
+4. °ø¹é
 5. etc
 
 
-## 1.ë“¤ì—¬ì“°ê¸°
+## 1.µé¿©¾²±â
 
-ë“¤ì—¬ì“°ê¸°ëŠ” ê¸°ë³¸ì ìœ¼ë¡œ Space 2íšŒë¡œ ê·œì •í•œë‹¤.
+µé¿©¾²±â´Â ±âº»ÀûÀ¸·Î Space 2È¸·Î ±ÔÁ¤ÇÑ´Ù.
 
-ë”°ë¼ì„œ, ë“¤ì—¬ì“°ê¸°ê°€ Në²ˆ ë°˜ë³µ ë  ê²½ìš°
-2NíšŒì˜ ê³µë°±ìœ¼ë¡œ í‘œí˜„í•˜ì—¬ì•¼ í•œë‹¤.
+µû¶ó¼­, µé¿©¾²±â°¡ N¹ø ¹Ýº¹ µÉ °æ¿ì
+2NÈ¸ÀÇ °ø¹éÀ¸·Î Ç¥ÇöÇÏ¿©¾ß ÇÑ´Ù.
 
 | Example |
 |---------|
 |example: function(test) {<br/>&nbsp;&nbsp;1st if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;2nd if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;}<br/>}|
 
 
-#2.ëª…ëª…ê·œì¹™
+## 2.¸í¸í±ÔÄ¢
 
-ëª¨ë“  ë³€ìˆ˜, í´ëž˜ìŠ¤ ë“±ì˜ ì´ë¦„ì€ ëª…ì‹œí•˜ëŠ” ëª…ëª…ê·œì¹™ì— ë”°ë¼ì„œ ìž‘ì„±í•  ìˆ˜ ìžˆë„ë¡ í•œë‹¤.
+¸ðµç º¯¼ö, Å¬·¡½º µîÀÇ ÀÌ¸§Àº ¸í½ÃÇÏ´Â ¸í¸í±ÔÄ¢¿¡ µû¶ó¼­ ÀÛ¼ºÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.
 
-ê¸°ë³¸ì ìœ¼ë¡œ ì˜ë¬¸ ëŒ€ì†Œë¬¸ìž, ìˆ«ìž, ì–¸ë”ìŠ¤ì½”ì–´ë¡œ ìž‘ì„±í•  ìˆ˜ ìžˆë„ë¡ í•œë‹¤.
+±âº»ÀûÀ¸·Î ¿µ¹® ´ë¼Ò¹®ÀÚ, ¼ýÀÚ, ¾ð´õ½ºÄÚ¾î·Î ÀÛ¼ºÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.
 
-ë‹¤ë¥¸ ë¬¸ìžëŠ” í—ˆìš©í•˜ì§€ ì•ŠëŠ”ë‹¤.
+´Ù¸¥ ¹®ÀÚ´Â Çã¿ëÇÏÁö ¾Ê´Â´Ù.
 
-2.1 -ë³€ìˆ˜-
+### 2.1 º¯¼ö
 
-ë³€ìˆ˜ëŠ” ì´ ë³€ìˆ˜ê°€ ì–´ë””ì— ì“°ì´ëŠ” resourceì¸ì§€ë¥¼ ì‰½ê²Œ ì•Œì•„ë³¼ ìˆ˜ ìžˆë„ë¡ ì •í•œë‹¤.
+º¯¼ö´Â ÀÌ º¯¼ö°¡ ¾îµð¿¡ ¾²ÀÌ´Â resourceÀÎÁö¸¦ ½±°Ô ¾Ë¾Æº¼ ¼ö ÀÖµµ·Ï Á¤ÇÑ´Ù.
 
-ë˜í•œ, ë³€ìˆ˜ì˜ ì´ë¦„ì—ì„œì˜ ì˜ë¬¸ ì†Œë¬¸ìžë¥¼ ì œì™¸í•œ ë¬¸ìžëŠ” í—ˆìš©í•˜ì§€ ì•ŠëŠ”ë‹¤.
+¶ÇÇÑ, º¯¼öÀÇ ÀÌ¸§¿¡¼­ÀÇ ¿µ¹® ¼Ò¹®ÀÚ¸¦ Á¦¿ÜÇÑ ¹®ÀÚ´Â Çã¿ëÇÏÁö ¾Ê´Â´Ù.
 
     // Bad
-    var wow = new testClass(); // ì—­í• ì˜ ëª¨í˜¸ì„±
-    var Apple_Fruit = new testClassFruit(); // ì˜ë¬¸ ì†Œë¬¸ìž ì´ì™¸ì˜ ë¬¸ìž ì‚¬ìš©
+    var wow = new testClass(); // ¿ªÇÒÀÇ ¸ðÈ£¼º
+    var Apple_Fruit = new testClassFruit(); // ¿µ¹® ¼Ò¹®ÀÚ ÀÌ¿ÜÀÇ ¹®ÀÚ »ç¿ë
 
     // Good
-    var apple = new testClassFruit(); // ì „ë¬¸ ì˜ì†Œë¬¸ìž
+    var apple = new testClassFruit(); // Àü¹® ¿µ¼Ò¹®ÀÚ
 
-2.2 -í´ëž˜ìŠ¤(í•¨ìˆ˜)-
+### 2.2 Å¬·¡½º(ÇÔ¼ö)
 
-í´ëž˜ìŠ¤ëŠ” ì´ ë³€ìˆ˜ê°€ ì–´ë– í•œ ì—­í• ì„ í•˜ëŠ” ê²ƒì¸ì§€ì— ëŒ€í•œ ë™ì‚¬ì™€ ëª…ì‚¬ë¡œ ì¡°í•©í•˜ì—¬ ëª…ëª…í•œë‹¤.
+Å¬·¡½º´Â ÀÌ º¯¼ö°¡ ¾î¶°ÇÑ ¿ªÇÒÀ» ÇÏ´Â °ÍÀÎÁö¿¡ ´ëÇÑ µ¿»ç¿Í ¸í»ç·Î Á¶ÇÕÇÏ¿© ¸í¸íÇÑ´Ù.
 
-ëª…ëª…ì„ í•  ë•Œì—ëŠ” íŒŒìŠ¤ì¹¼ í‘œê¸°ë²•ì„ ì¤€ìˆ˜í•˜ë˜, ì—­í• ì„ ë‚˜íƒ€ë‚´ëŠ” ë™ì‚¬ëŠ” ì˜ë¬¸ ì†Œë¬¸ìžë¡œ ìž‘ì„±í•  ìˆ˜ ìžˆë„ë¡ í•œë‹¤.
+¸í¸íÀ» ÇÒ ¶§¿¡´Â ÆÄ½ºÄ® Ç¥±â¹ýÀ» ÁØ¼öÇÏµÇ, ¿ªÇÒÀ» ³ªÅ¸³»´Â µ¿»ç´Â ¿µ¹® ¼Ò¹®ÀÚ·Î ÀÛ¼ºÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.
 
     // Bad
-    TestNamingClass: function() { // Classì˜ ì—­í• ì„ ë‚˜íƒ€ë‚´ëŠ” ë™ì‚¬ê°€ ì˜ë¬¸ ëŒ€ë¬¸ìžë¡œ ì‹œìž‘
+    TestNamingClass: function() { // ClassÀÇ ¿ªÇÒÀ» ³ªÅ¸³»´Â µ¿»ç°¡ ¿µ¹® ´ë¹®ÀÚ·Î ½ÃÀÛ
       test = (a + b);
     }
 
     // Good
-    testNamingClass: function() { // ë™ì‚¬ ì˜ë¬¸ ì†Œë¬¸ìž, íŒŒìŠ¤ì¹¼ í‘œê¸°ë²• ì¤€ìˆ˜
+    testNamingClass: function() { // µ¿»ç ¿µ¹® ¼Ò¹®ÀÚ, ÆÄ½ºÄ® Ç¥±â¹ý ÁØ¼ö
       test = (a + b);
     }
 
 
-#3.ì£¼ì„
+## 3.ÁÖ¼®
 
-ì£¼ì„ì€ ì½”ë“œì˜ ì´í•´ë¥¼ ë•ê¸° ìœ„í•œ ë³´ì¡°ë¬¸ìœ¼ë¡œ ì£¼ì„ì€ í•œì¤„ ì£¼ì„ê³¼ ì—¬ëŸ¬ì¤„ ì£¼ì„ì´ ìžˆë‹¤.
+ÁÖ¼®Àº ÄÚµåÀÇ ÀÌÇØ¸¦ µ½±â À§ÇÑ º¸Á¶¹®À¸·Î ÁÖ¼®Àº ÇÑÁÙ ÁÖ¼®°ú ¿©·¯ÁÙ ÁÖ¼®ÀÌ ÀÖ´Ù.
 
-ê° ì£¼ì„ì€ ì„¤ëª…êµ¬ë¬¸ì˜ ë“¤ì—¬ì“°ê¸°ì— ë§žì¶°ì“°ëŠ” ê²ƒì„ ì›ì¹™ìœ¼ë¡œ í•œë‹¤.
+°¢ ÁÖ¼®Àº ¼³¸í±¸¹®ÀÇ µé¿©¾²±â¿¡ ¸ÂÃç¾²´Â °ÍÀ» ¿øÄ¢À¸·Î ÇÑ´Ù.
 
-ë¬¸ìž¥ì˜ ëì— ì£¼ì„ì„ ìž‘ì„±í•  ê²½ìš°ì—ëŠ” Space 1íšŒë¡œ ë„ì–´ì“°ê¸° í•˜ë„ë¡ í•œë‹¤.
+¹®ÀåÀÇ ³¡¿¡ ÁÖ¼®À» ÀÛ¼ºÇÒ °æ¿ì¿¡´Â Space 1È¸·Î ¶ç¾î¾²±â ÇÏµµ·Ï ÇÑ´Ù.
 
     // Good
     function someFunction() {
 
-        // statementì— ê´€í•œ ì£¼ì„
+        // statement¿¡ °üÇÑ ÁÖ¼®
       statements
     }
 
-    // Bad - ë“¤ì—¬ì“°ê¸° ì—†ìŒ, ì£¼ì„ ì „ì— í•œ ì¤„ ë„ê¸° ì—†ìŒ
+    // Bad - µé¿©¾²±â ¾øÀ½, ÁÖ¼® Àü¿¡ ÇÑ ÁÙ ¶ç±â ¾øÀ½
     function someFunction() {
-    // statementì— ê´€í•œ ì£¼ì„
+    // statement¿¡ °üÇÑ ÁÖ¼®
       statements
     }
 
     // Good
-    var Value += data1 + data2 - length; // ì£¼ì„ í‘œì‹œ ì „í›„ ê³µë°±
+    var Value += data1 + data2 - length; // ÁÖ¼® Ç¥½Ã ÀüÈÄ °ø¹é
 
     // Bad
-    var Value += data1 + data2 - length;//ì£¼ì„ í‘œì‹œ ì „í›„ ê³µë°± ì—†ìŒ
+    var Value += data1 + data2 - length;//ÁÖ¼® Ç¥½Ã ÀüÈÄ °ø¹é ¾øÀ½
 
     // Bad
-    var Value += data1 + data2 - length; /* ì—¬ëŸ¬ ì¤„ ì£¼ì„ */
+    var Value += data1 + data2 - length; /* ¿©·¯ ÁÙ ÁÖ¼® */
 
 
-ì—¬ëŸ¬ì¤„ ì£¼ì„ì˜ ê²½ìš°ì—ëŠ” ê°€ë…ì„±ì„ ìœ„í•˜ì—¬ \*ì˜ ë“¤ì—¬ì“°ê¸°ë¥¼ ë°˜ë“œì‹œ ë§žì¶°ì£¼ë„ë¡ í•œë‹¤.
+¿©·¯ÁÙ ÁÖ¼®ÀÇ °æ¿ì¿¡´Â °¡µ¶¼ºÀ» À§ÇÏ¿© \*ÀÇ µé¿©¾²±â¸¦ ¹Ýµå½Ã ¸ÂÃçÁÖµµ·Ï ÇÑ´Ù.
 
     // Good
     /*
-     * '*' í‘œì‹œì˜ ì •ë ¬ì„ ë§žì¶˜ë‹¤.
+     * '*' Ç¥½ÃÀÇ Á¤·ÄÀ» ¸ÂÃá´Ù.
      */
  
     // Bad
     /*
-    * '*' í‘œì‹œì˜ ì •ë ¬ì´ ë§žì§€ ì•ŠëŠ”ë‹¤.
+    * '*' Ç¥½ÃÀÇ Á¤·ÄÀÌ ¸ÂÁö ¾Ê´Â´Ù.
     */
 
-    // Bad - ì£¼ì„ì˜ ì²«ì¤„ì— ë¬¸ìž¥ì´ ì˜´
+    // Bad - ÁÖ¼®ÀÇ Ã¹ÁÙ¿¡ ¹®ÀåÀÌ ¿È
     ...
     /* var foo = '';
      * var bar = '';
      *var quux;
      */
 
-ìœ„ì˜ ë§ˆì§€ë§‰ ì˜ˆì‹œì™€ ê°™ì€ ì½”ë“œ ì£¼ì„ì´ ìžˆë‹¤ë©´, ë°˜ë“œì‹œ í•œì¤„ ì£¼ì„ë“¤ì˜ ëª¨ìŒìœ¼ë¡œ ì²˜ë¦¬í•œë‹¤.
+À§ÀÇ ¸¶Áö¸· ¿¹½Ã¿Í °°Àº ÄÚµå ÁÖ¼®ÀÌ ÀÖ´Ù¸é, ¹Ýµå½Ã ÇÑÁÙ ÁÖ¼®µéÀÇ ¸ðÀ½À¸·Î Ã³¸®ÇÑ´Ù.
 
     // Good
     // var foo = '';
     // var bar = '';
     // var quux;
 
-#4.ê³µë°±
+## 4.°ø¹é
 
-ê³µë°±ì€ í‚¤ì›Œë“œ, ì—°ì‚°ìž ë˜ëŠ” ë‹¤ë¥¸ ì½”ë“œ ì‚¬ì´ì— ìžˆì–´ì•¼ í•œë‹¤.
+°ø¹éÀº Å°¿öµå, ¿¬»êÀÚ ¶Ç´Â ´Ù¸¥ ÄÚµå »çÀÌ¿¡ ÀÖ¾î¾ß ÇÑ´Ù.
 
-ë‹¨, í´ëž˜ìŠ¤ ì„ ì–¸ì— ìžˆì–´ì„œ í´ëž˜ìŠ¤ì˜ Name ì§í›„ëŠ” ê³µë°±ì„ ë‘ì§€ ì•Šìœ¼ë©°,
+´Ü, Å¬·¡½º ¼±¾ð¿¡ ÀÖ¾î¼­ Å¬·¡½ºÀÇ Name Á÷ÈÄ´Â °ø¹éÀ» µÎÁö ¾ÊÀ¸¸ç,
 
-':' ë¬¸ìžì˜ ë’¤ì— ê³µë°±ì„ í•˜ë‚˜ ì‚½ìž… í•´ì•¼í•œë‹¤.
+':' ¹®ÀÚÀÇ µÚ¿¡ °ø¹éÀ» ÇÏ³ª »ðÀÔ ÇØ¾ßÇÑ´Ù.
 
     // Good
     var value;
@@ -145,9 +145,9 @@ ERICASTì— ëŒ€í•œ í•©ë¦¬ì  ì ‘ê·¼ ë°©ë²•
       value=(a+b);
     }
 
-ê´„í˜¸ì˜ ì§í›„ì—ëŠ” ê³µë°±ì„ ì œê±°í•œë‹¤.
+°ýÈ£ÀÇ Á÷ÈÄ¿¡´Â °ø¹éÀ» Á¦°ÅÇÑ´Ù.
 
-ë‹¨, ê´„í˜¸ ë‚´ì˜ ì¸ìžë“¤ì˜ ë‚˜ì—´ì—ì„œ ì½¤ë§ˆ(,)ì˜ ì§í›„ì—ëŠ” ê³µë°±ì´ ìžˆì–´ì•¼ í•œë‹¤.
+´Ü, °ýÈ£ ³»ÀÇ ÀÎÀÚµéÀÇ ³ª¿­¿¡¼­ ÄÞ¸¶(,)ÀÇ Á÷ÈÄ¿¡´Â °ø¹éÀÌ ÀÖ¾î¾ß ÇÑ´Ù.
 
     // Good
     var arr = [1, 2, 3, 4];
@@ -159,13 +159,13 @@ ERICASTì— ëŒ€í•œ í•©ë¦¬ì  ì ‘ê·¼ ë°©ë²•
       prop3: 3
     });
 
-    // Bad - ê´„í˜¸ ì•ˆì— ê³µë°±
+    // Bad - °ýÈ£ ¾È¿¡ °ø¹é
     if ( typeof str === 'string' )
 
-    // Bad - ê´„í˜¸ ì•ˆ ê³µë°±, ì½¤ë§ˆ ë’¤ ê³µë°± ì—†ìŒ
+    // Bad - °ýÈ£ ¾È °ø¹é, ÄÞ¸¶ µÚ °ø¹é ¾øÀ½
     var arr = [ 1,2,3,4 ];
 
-    // Bad - ê°ì²´ì˜ ë‹«ëŠ” ê´„í˜¸ ë‹¤ìŒì— ê°œí–‰
+    // Bad - °´Ã¼ÀÇ ´Ý´Â °ýÈ£ ´ÙÀ½¿¡ °³Çà
     someFunction(a, b, {
         prop1: 1,
         prop2: 2,
