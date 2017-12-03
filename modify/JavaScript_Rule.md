@@ -88,47 +88,16 @@ ERICAST에 대한 합리적 접근 방법
 
 ':' 문자의 뒤에 공백을 하나 삽입 해야한다.
 
-    // Good
-    var value;
-    if (typeof str === 'string') {
-      value = (a + b);
-    }
-
-    // Good
-    createTestClass: function() {
-      value = (a + b);
-    }
-
-    // Bad
-    var value;
-    if(typeof str==='string') {
-      value=(a+b);
-    }
+| Bad | Good |
+|-----|------|
+|var value;</br>if(typeof str==='string') { // 키워드 후 공백</br>&nbsp;&nbsp;value=(a+b);</br>}|createTestClass: function() {</br>&nbsp;&nbsp;value = (a + b);</br>}|
 
 괄호의 직후에는 공백을 제거한다.
 
 단, 괄호 내의 인자들의 나열에서 콤마(,)의 직후에는 공백이 있어야 한다.
 
-    // Good
-    var arr = [1, 2, 3, 4];
-
-    // Good
-    someFunction(a, b, {
-      prop1: 1,
-      prop2: 2,
-      prop3: 3
-    });
-
-    // Bad - 괄호 안에 공백
-    if ( typeof str === 'string' )
-
-    // Bad - 괄호 안 공백, 콤마 뒤 공백 없음
-    var arr = [ 1,2,3,4 ];
-
-    // Bad - 객체의 닫는 괄호 다음에 개행
-    someFunction(a, b, {
-        prop1: 1,
-        prop2: 2,
-        prop3: 3
-      }
-    );
+| Bad | Good |
+|-----|------|
+|var arr = \[ 1,2,3,4 \]; // 내부 공백|var arr = \[1, 2, 3, 4\];|
+|someFunction(a, b, {</br>&nbsp;&nbsp;&nbsp;&nbsp;prop1: 1,</br>&nbsp;&nbsp;&nbsp;&nbsp;prop2: 2,</br>&nbsp;&nbsp;&nbsp;&nbsp;prop3: 3</br>&nbsp;&nbsp;}</br>); // 닫는 괄호 후 개행|someFunction(a, b, {</br>&nbsp;&nbsp;&nbsp;&nbsp;prop1: 1,</br>&nbsp;&nbsp;&nbsp;&nbsp;prop2: 2,</br>&nbsp;&nbsp;&nbsp;&nbsp;prop3: 3</br>&nbsp;&nbsp;});|
+|if ( typeof str === 'string' ) // 괄호 내 공백||
