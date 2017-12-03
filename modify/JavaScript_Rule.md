@@ -9,8 +9,7 @@ ERICAST에 대한 합리적 접근 방법
 1. [들여쓰기](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#1-들여쓰기)
 2. [명명규칙](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#2-명명규칙)
 3. [주석](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#3-주석)
-4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-)
-5. etc
+4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-공백)
 
 
 ### 1. 들여쓰기
