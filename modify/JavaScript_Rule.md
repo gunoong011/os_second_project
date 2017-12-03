@@ -39,8 +39,8 @@ ERICAST에 대한 합리적 접근 방법
 
 | Bad | Good |
 |-----|------|
-|var wow = new testClass(); // 역할의 모호성|var number = new testNumber(); // 전문 영소문자|
-|var Apple_Fruit = new testFruit(); // 영문 소문자 이외의 문자 사용|var apple = new testFruit(); // 역할의 확실한 표현|
+|var **wow** = new testClass(); // 역할의 모호성|var **apple** = new testFruit(); // 역할의 확실한 표현|
+|var **Apple_Fruit** = new testFruit(); // 영문 소문자 이외의 문자 사용|var **number** = new testNumber(); // 전문 영소문자|
 
 #### 2.2. 클래스(함수)
 
