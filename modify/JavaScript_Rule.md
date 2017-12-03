@@ -49,16 +49,9 @@ ERICAST에 대한 합리적 접근 방법
 
 명명을 할 때에는 파스칼 표기법을 준수하되, 역할을 나타내는 동사는 영문 소문자로 작성할 수 있도록 한다.
 
-    // Bad
-    TestNamingClass: function() { // Class의 역할을 나타내는 동사가 영문 대문자로 시작
-      test = (a + b);
-    }
-
-    // Good
-    testNamingClass: function() { // 동사 영문 소문자, 파스칼 표기법 준수
-      test = (a + b);
-    }
-
+| Bad | Good |
+|-----|------|
+|TestNamingClass: function() { // 동사가 영문 대문자로 시작</br>&nbsp;&nbsp;test = (a + b);</br>}|testNamingClass: function() { // 표기법 준수</br>&nbsp;&nbsp;test = (a + b);</br>}|
 
 ### 3. 주석
 
@@ -68,54 +61,24 @@ ERICAST에 대한 합리적 접근 방법
 
 문장의 끝에 주석을 작성할 경우에는 Space 1회로 띄어쓰기 하도록 한다.
 
-    // Good
-    function someFunction() {
-
-        // statement에 관한 주석
-      statements
-    }
-
-    // Bad - 들여쓰기 없음, 주석 전에 한 줄 띄기 없음
-    function someFunction() {
-    // statement에 관한 주석
-      statements
-    }
-
-    // Good
-    var Value += data1 + data2 - length; // 주석 표시 전후 공백
-
-    // Bad
-    var Value += data1 + data2 - length;//주석 표시 전후 공백 없음
-
-    // Bad
-    var Value += data1 + data2 - length; /* 여러 줄 주석 */
-
+| Bad | Good |
+|-----|------|
+|function someFunction() {</br>// statement에 관한 주석</br></br>&nbsp;&nbsp;// 들여쓰기, 주석 전 줄바꿈</br>&nbsp;&nbsp;statements</br>}|function someFunction()&nbsp;{</br></br>&nbsp;&nbsp;// statement에 관한 주석</br>&nbsp;&nbsp;statements</br>}|
+|var Value += data1 + data2 - length;//전후 공백 없음|var Value += data1 + data2 - length; // 전후 공백|
+|var Value += data1 + data2 - length; /* 여러 줄 주석 */||
 
 여러줄 주석의 경우에는 가독성을 위하여 \*의 들여쓰기를 반드시 맞춰주도록 한다.
 
-    // Good
-    /*
-     * '*' 표시의 정렬을 맞춘다.
-     */
- 
-    // Bad
-    /*
-    * '*' 표시의 정렬이 맞지 않는다.
-    */
-
-    // Bad - 주석의 첫줄에 문장이 옴
-    ...
-    /* var foo = '';
-     * var bar = '';
-     *var quux;
-     */
+| Bad | Good |
+|-----|------|
+|/\*</br>\* '\*' 표시의 정렬이 맞지 않는다.</br>\*/|/\*</br>&nbsp;&nbsp;\* '\*' 표시의 정렬을 맞춘다.</br>&nbsp;&nbsp;\*/|
+|...</br>/\* var foo = ''; // 첫줄 문장</br>&nbsp;&nbsp;\* var bar = '';</br>&nbsp;&nbsp;\*var quux;</br>&nbsp;&nbsp;\*/||
 
 위의 마지막 예시와 같은 코드 주석이 있다면, 반드시 한줄 주석들의 모음으로 처리한다.
 
-    // Good
-    // var foo = '';
-    // var bar = '';
-    // var quux;
+| Example |
+|---------|
+|// var foo = '';</br>// var bar = '';</br>// var quux;|
 
 ### 4. 공백
 
