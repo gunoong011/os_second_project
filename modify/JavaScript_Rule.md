@@ -22,6 +22,7 @@ ERICAST에 대한 합리적 접근 방법
 |---------|
 |example: function(test) {<br/>&nbsp;&nbsp;1st if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;2nd if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd if () {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;&nbsp;&nbsp;}<br/>&nbsp;&nbsp;}<br/>}|
 
+--------------------------------
 
 ### 2. 명명규칙
 
@@ -52,6 +53,8 @@ ERICAST에 대한 합리적 접근 방법
 |-----|------|
 |**_TestNamingClass_**: function() { // 동사가 영문 대문자로 시작</br>&nbsp;&nbsp;test = (a + b);</br>}|**_testNamingClass_**: function() { // 표기법 준수</br>&nbsp;&nbsp;test = (a + b);</br>}|
 
+--------------------------------
+
 ### 3. 주석
 
 &nbsp;&nbsp;주석은 코드의 이해를 돕기 위한 보조문으로 주석은 한줄 주석과 여러줄 주석이 있다.
@@ -78,6 +81,8 @@ ERICAST에 대한 합리적 접근 방법
 | Example |
 |---------|
 |// var foo = '';</br>// var bar = '';</br>// var quux;|
+
+--------------------------------
 
 ### 4. 공백
 
