@@ -8,6 +8,8 @@ ERICAST에 대한 합리적 접근 방법
 
 **1. [들여쓰기](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#1-들여쓰기)**</br>
 **2. [명명규칙](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#2-명명규칙)**</br>
+**&nbsp;&nbsp;2.1. [변수]**</br>
+**&nbsp;&nbsp;2.2. [클래스(함수)]**</br>
 **3. [주석](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#3-주석)**</br>
 **4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-공백)**</br>
 
@@ -29,7 +31,7 @@ ERICAST에 대한 합리적 접근 방법
 
 다른 문자는 **허용하지 않는다.**
 
-#### 2.1 변수
+#### 2.1. 변수
 
 &nbsp;&nbsp;변수는 이 변수가 어디에 쓰이는 resource인지를 쉽게 알아볼 수 있도록 정한다.
 
@@ -40,7 +42,7 @@ ERICAST에 대한 합리적 접근 방법
 |var wow = new testClass(); // 역할의 모호성|var number = new testNumber(); // 전문 영소문자|
 |var Apple_Fruit = new testFruit(); // 영문 소문자 이외의 문자 사용|var apple = new testFruit(); // 역할의 확실한 표현|
 
-#### 2.2 클래스(함수)
+#### 2.2. 클래스(함수)
 
 &nbsp;&nbsp;클래스는 이 변수가 어떠한 역할을 하는 것인지에 대한 **동사**와 **명사**로 조합하여 명명한다.
 
