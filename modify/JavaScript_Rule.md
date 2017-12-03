@@ -13,6 +13,7 @@ ERICAST에 대한 합리적 접근 방법
 **3. [주석](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#3-주석)**</br>
 **4. [공백](https://github.com/gunoong011/os_second_project/blob/master/modify/JavaScript_Rule.md#4-공백)**</br>
 
+--------------------------------
 
 ### 1. 들여쓰기
 
