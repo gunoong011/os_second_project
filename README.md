@@ -21,7 +21,9 @@
 <br>
 &nbsp;&nbsp;7.  [웹사이트 기능에 대해](#about_website)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.  [create 기능](#create_function)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.  [그 이외의 기능](#another_function)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.  [login 기능](#login_function)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.3.  [upload 기능](#upload_function)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4.  [share 기능](#share_function)<br>
 <br>
 &nbsp;&nbsp;8.  [개발 참여 방법 안내서](#information)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1.  [첫번째 방법](#first_way)<br>
@@ -106,7 +108,7 @@ CSS : Version 3.0
 
 ### <div id = "install_bundler">6.1. bundle 설치 방법 </div>
 
-(1) for mac os
+**for mac os**
 
 터미널에서 아래의 명령어를 실행해 주세요.
 
@@ -124,8 +126,6 @@ CSS : Version 3.0
 
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.26.55.png">
 
-
-(2) for windows os
 
 
 ### <div id ="open_bundler">6.2. bundle 열기</div> 
@@ -202,9 +202,24 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 
  위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
-### <div  id = "another_function">7.2. 그 이외의 기능 </div>
+### <div  id = "login_function"> 7.2.login 기능 </div>
+<img src ="https://github.com/Kimsohyun93/image/blob/master/LOGIN.PNG" width = "40%" heigh = "30%"> <br/><br/>
+LOGIN 버튼 클릭 시 아이디와 비밀번호를 입력 할 수 있는 팝업창이 뜹니다.<br/>
+등록이 안되어 있다면 아래  **create an account** 버튼으로 계정을 만들 수 있습니다.<br/>
+*아직 실제로 기능 구현은 되지 않습니다.*<br/>
+<br/><br/>
 
-업데이트 예정 입니다
+### <div id ="upload_function"> 7.3. upload 기능 </div>
+
+<img src ="https://github.com/Kimsohyun93/image/blob/master/UPLOAD.PNG" width = "60%" heigh = "60%" ><br/><br/>
+CREATE 페이지에서 직접 제작한 카드뉴스를 **페이지에 업로드** 할 수 있습니다.<br/>
+파일을 **드래그** 하여 선택하거나 **chosse file 버튼**을 통해 선택할 수 있습니다.<br/>
+파일이 선택되면 upload버튼으로 카드뉴스를 업로드 할 수 있습니다.<br/>
+
+### <div id = "share_function"> 7.4. share 기능 </div>
+
+<img src = "https://github.com/Kimsohyun93/image/blob/master/CARDNEWS.PNG" width = "80%" heigh = "80%"> <br/><br/>
+카드뉴스 위의 버튼으로 **페이스북과 트위터로 공유**할 수 있습니다.<br/>
 
 ---
 
