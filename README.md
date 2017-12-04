@@ -233,26 +233,28 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 <img src ="https://github.com/Kimsohyun93/image/blob/master/LOGIN.PNG" width = "40%" heigh = "30%"> 
 </kbd>
 <br>
+<br>
 LOGIN 버튼 클릭 시 아이디와 비밀번호를 입력 할 수 있는 팝업창이 뜹니다.<br/>
-등록이 안되어 있다면 아래  **create an account** 버튼으로 계정을 만들 수 있습니다.<br/>
-*아직 실제로 기능 구현은 되지 않습니다.*<br/>
-<br/><br/>
+등록이 안되어 있다면 아래  **create an account** 버튼으로 계정을 만들 수 있습니다.
+*아직 실제로 기능 구현은 되지 않습니다.*
 
 ### <div id ="upload_function"> 7.3. upload 기능 </div>
 <kbd>
 <img src ="https://github.com/Kimsohyun93/image/blob/master/UPLOAD.PNG" width = "60%" heigh = "60%" >
 </kbd>
 <br>
-CREATE 페이지에서 직접 제작한 카드뉴스를 **페이지에 업로드** 할 수 있습니다.<br/>
-파일을 **드래그** 하여 선택하거나 **chosse file 버튼**을 통해 선택할 수 있습니다.<br/>
-파일이 선택되면 upload버튼으로 카드뉴스를 업로드 할 수 있습니다.<br/>
+<br>
+CREATE 페이지에서 직접 제작한 카드뉴스를 **페이지에 업로드** 할 수 있습니다.  
+파일을 **드래그** 하여 선택하거나 **chosse file 버튼**을 통해 선택할 수 있습니다.  
+파일이 선택되면 upload버튼으로 카드뉴스를 업로드 할 수 있습니다.  
 
 ### <div id = "share_function"> 7.4. share 기능 </div>
 <kbd>
 <img src = "https://github.com/Kimsohyun93/image/blob/master/CARDNEWS.PNG" width = "80%" heigh = "80%"> 
 </kbd>
 <br>
-카드뉴스 위의 버튼으로 **페이스북과 트위터로 공유**할 수 있습니다.<br/>
+<br>
+카드뉴스 위의 버튼으로 **페이스북과 트위터로 공유**할 수 있습니다.
 
 ---
 
