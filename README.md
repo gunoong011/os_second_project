@@ -140,8 +140,9 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 
 그럼 아래와 같이 서버가 열리게 되고 create기능을 사용할 수 있습니다.
 
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.23.57.png">
-
+</kbd>
 ---
 
 ## <div id ="about_website">7. 웹사이트 기능에 대해</div>
@@ -151,12 +152,19 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 **(1) 배경 사진 넣기**
 
 create에 들어오면 다음과 같은 화면을 보게됩니다.
+<br>
 
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.24.59.png">
+</kbd>
+<br>
 
 배경사진을 설정하기 위해서는 아래의 "Drog image here"에 이미지를 드래그하여 넣어주세요.
-
+<br>
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.59.53.png">
+</kbd>
+<br>
  
 배경사진을 드래그해서 넣었으면 밑에 있는 "Resize image"를 통해 크기를 조절할 수 있습니다.
 
@@ -165,7 +173,11 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 
 카드뉴스의 제목은 "Headline"을 통해 작성을 할 수 있습니다.
 
+<br>
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.04.48.png" border="10">
+</kbd>
+<br>
 
 **(3)꾸미기**
 
@@ -177,48 +189,66 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 2. 텍스트의 크기
 3. 글씨체
 
+<br>
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.06.21.png">
 </kbd>
+<br>
 
 **(4)내용 작성**
 
 credit을 통해 카드뉴스의 내용 작성이 가능합니다.
 
+<br>
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.20.png">
-
+</kbd>
+<br>
 
 **(5)배경 색**
 
 overlay를 통해 배경의 색을 선택할 수 있습니다.
 
+<br>
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.20.png">
+</kbd>
+<br> 
 
 **(6)다운로드**
 
 카드뉴스가 완성되었다면 "Download & upload image"를 클릭 하시면 다운 받을수 있습니다.
-
+<br>
+<kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.58.08.png">
+</kbd>
+<br>
+위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
- 위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
-
-### <div  id = "login_function"> 7.2.login 기능 </div>
-<img src ="https://github.com/Kimsohyun93/image/blob/master/LOGIN.PNG" width = "40%" heigh = "30%"> <br/><br/>
+### <div id = "login_function"> 7.2.login 기능 </div>
+<kbd>
+<img src ="https://github.com/Kimsohyun93/image/blob/master/LOGIN.PNG" width = "40%" heigh = "30%"> 
+</kbd>
+<br>
 LOGIN 버튼 클릭 시 아이디와 비밀번호를 입력 할 수 있는 팝업창이 뜹니다.<br/>
 등록이 안되어 있다면 아래  **create an account** 버튼으로 계정을 만들 수 있습니다.<br/>
 *아직 실제로 기능 구현은 되지 않습니다.*<br/>
 <br/><br/>
 
 ### <div id ="upload_function"> 7.3. upload 기능 </div>
-
-<img src ="https://github.com/Kimsohyun93/image/blob/master/UPLOAD.PNG" width = "60%" heigh = "60%" ><br/><br/>
+<kbd>
+<img src ="https://github.com/Kimsohyun93/image/blob/master/UPLOAD.PNG" width = "60%" heigh = "60%" >
+</kbd>
+<br>
 CREATE 페이지에서 직접 제작한 카드뉴스를 **페이지에 업로드** 할 수 있습니다.<br/>
 파일을 **드래그** 하여 선택하거나 **chosse file 버튼**을 통해 선택할 수 있습니다.<br/>
 파일이 선택되면 upload버튼으로 카드뉴스를 업로드 할 수 있습니다.<br/>
 
 ### <div id = "share_function"> 7.4. share 기능 </div>
-
-<img src = "https://github.com/Kimsohyun93/image/blob/master/CARDNEWS.PNG" width = "80%" heigh = "80%"> <br/><br/>
+<kbd>
+<img src = "https://github.com/Kimsohyun93/image/blob/master/CARDNEWS.PNG" width = "80%" heigh = "80%"> 
+</kbd>
+<br>
 카드뉴스 위의 버튼으로 **페이스북과 트위터로 공유**할 수 있습니다.<br/>
 
 ---
