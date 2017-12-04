@@ -226,7 +226,6 @@ overlay를 통해 배경의 색을 선택할 수 있습니다.
 </kbd>
 <br>
 <br>
-위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
 ### <div id = "login_function"> 7.2.login 기능 </div>
 <kbd>
