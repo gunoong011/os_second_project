@@ -152,18 +152,19 @@ bundle install을 했다면 meme폴더로 이동후 폴더 내부에서 아래�
 **(1) 배경 사진 넣기**
 
 create에 들어오면 다음과 같은 화면을 보게됩니다.
-<br>
 
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.24.59.png">
 </kbd>
 <br>
+<br>
 
 배경사진을 설정하기 위해서는 아래의 "Drog image here"에 이미지를 드래그하여 넣어주세요.
-<br>
+
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.59.53.png">
 </kbd>
+<br>
 <br>
  
 배경사진을 드래그해서 넣었으면 밑에 있는 "Resize image"를 통해 크기를 조절할 수 있습니다.
@@ -173,10 +174,10 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 
 카드뉴스의 제목은 "Headline"을 통해 작성을 할 수 있습니다.
 
-<br>
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.04.48.png" border="10">
 </kbd>
+<br>
 <br>
 
 **(3)꾸미기**
@@ -189,39 +190,41 @@ create에 들어오면 다음과 같은 화면을 보게됩니다.
 2. 텍스트의 크기
 3. 글씨체
 
-<br>
+
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.06.21.png">
 </kbd>
+<br>
 <br>
 
 **(4)내용 작성**
 
 credit을 통해 카드뉴스의 내용 작성이 가능합니다.
 
-<br>
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.20.png">
 </kbd>
+<br>
 <br>
 
 **(5)배경 색**
 
 overlay를 통해 배경의 색을 선택할 수 있습니다.
 
-<br>
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-23%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.20.png">
 </kbd>
 <br> 
+<br>
 
 **(6)다운로드**
 
 카드뉴스가 완성되었다면 "Download & upload image"를 클릭 하시면 다운 받을수 있습니다.
-<br>
+
 <kbd>
 <img src = "https://github.com/nickjw0205/for-image-upload/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-11-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.58.08.png">
 </kbd>
+<br>
 <br>
 위 내용은 [Create Guide](https://github.com/gunoong011/os_second_project/blob/master/modify/Create_Guide.md) 에서도 확인할 수 있습니다
 
